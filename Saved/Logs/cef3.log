@@ -1,1 +1,4 @@
 [0421/193539.323:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0422/085736.201:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Nieprawid³owy klucz do u¿ycia w podanym stanie. (0x8009000B)
+[0422/085739.077:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0422/134213.346:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
