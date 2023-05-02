@@ -1,0 +1,1192 @@
+﻿Log file open, 05/02/23 19:10:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=3692)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NowaGra
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\NowaGra.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2846] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13700K"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="268026fc4dec29f460e51785ba3911d7"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.211734
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F4AB6D3042D1FA51E532AAA967C5BF32
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2846] (), CPU: 13th Gen Intel(R) Core(TM) i7-13700K, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.02-17.10.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.02-17.10.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.05.02-17.10.34:831][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.05.02-17.10.34:832][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.02-17.10.34:835][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.02-17.10.34:843][  0]LogD3D12RHI: Aftermath initialized
+[2023.05.02-17.10.34:843][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.05.02-17.10.34:934][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.05.02-17.10.34:934][  0]LogD3D12RHI: Adapter has 10078MB of dedicated video memory, 0MB of dedicated system memory, and 32661MB of shared system memory, 2 output[s]
+[2023.05.02-17.10.34:984][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 770 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.05.02-17.10.34:984][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 32661MB of shared system memory, 0 output[s]
+[2023.05.02-17.10.34:988][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.05.02-17.10.34:988][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32661MB of shared system memory, 0 output[s]
+[2023.05.02-17.10.34:988][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.05.02-17.10.34:988][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.02-17.10.34:988][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.05.02-17.10.34:988][  0]LogHAL: Display: Platform has ~ 64 GB [68497018880 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.02-17.10.34:988][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.02-17.10.34:988][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.02-17.10.34:988][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.02-17.10.34:988][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.02-17.10.34:988][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Config/WindowsEditor/Editor.ini]
+[2023.05.02-17.10.34:988][  0]LogInit: Computer: DESKTOP-A0J4LHC
+[2023.05.02-17.10.34:988][  0]LogInit: User: Voldur
+[2023.05.02-17.10.34:988][  0]LogInit: CPU Page size=4096, Cores=16
+[2023.05.02-17.10.34:988][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.02-17.10.34:988][  0]LogMemory: Memory total: Physical=63.8GB (64GB approx)
+[2023.05.02-17.10.34:988][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.05.02-17.10.34:988][  0]LogMemory: Process Physical Memory: 304.75 MB used, 307.41 MB peak
+[2023.05.02-17.10.34:988][  0]LogMemory: Process Virtual Memory: 290.82 MB used, 290.82 MB peak
+[2023.05.02-17.10.34:988][  0]LogMemory: Physical Memory: 13709.98 MB used,  51613.87 MB free, 65323.85 MB total
+[2023.05.02-17.10.34:988][  0]LogMemory: Virtual Memory: 17341.64 MB used,  57710.21 MB free, 75051.84 MB total
+[2023.05.02-17.10.34:988][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.02-17.10.34:992][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.02-17.10.35:002][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.02-17.10.35:003][  0]LogInit: Using OS detected language (pl-PL).
+[2023.05.02-17.10.35:003][  0]LogInit: Using OS detected locale (pl-PL).
+[2023.05.02-17.10.35:005][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so 'pl' will be used for the language.
+[2023.05.02-17.10.35:006][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2023.05.02-17.10.35:006][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2023.05.02-17.10.35:006][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2023.05.02-17.10.35:006][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2023.05.02-17.10.35:006][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2023.05.02-17.10.35:006][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2023.05.02-17.10.35:006][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2023.05.02-17.10.35:006][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.02-17.10.35:014][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.02-17.10.35:014][  0]LogWindowsTextInputMethodSystem:   - Polski (Polska) - (Keyboard).
+[2023.05.02-17.10.35:014][  0]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2023.05.02-17.10.35:023][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.02-17.10.35:023][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.02-17.10.35:087][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.05.02-17.10.35:089][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.05.02-17.10.35:090][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.05.02-17.10.35:138][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.05.02-17.10.35:209][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.05.02-17.10.35:213][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.05.02-17.10.35:221][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.05.02-17.10.35:240][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.05.02-17.10.35:240][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.05.02-17.10.35:254][  0]LogD3D12RHI:     GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.02-17.10.35:254][  0]LogWindows: Attached monitors:
+[2023.05.02-17.10.35:254][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY1'
+[2023.05.02-17.10.35:254][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2023.05.02-17.10.35:254][  0]LogWindows: Found 2 attached monitors.
+[2023.05.02-17.10.35:254][  0]LogWindows: EnumDisplayDevices:
+[2023.05.02-17.10.35:254][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.05.02-17.10.35:254][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY2'
+[2023.05.02-17.10.35:254][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.02-17.10.35:254][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.02-17.10.35:254][  0]LogWindows:    4. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.05.02-17.10.35:255][  0]LogWindows:    5. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.05.02-17.10.35:255][  0]LogWindows:    6. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.05.02-17.10.35:255][  0]LogWindows:    7. 'Intel(R) UHD Graphics 770' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.05.02-17.10.35:255][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.05.02-17.10.35:255][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2023.05.02-17.10.35:255][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.05.02-17.10.35:255][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2023.05.02-17.10.35:255][  0]LogRHI: Texture pool is 5865 MB (70% of 8379 MB)
+[2023.05.02-17.10.35:255][  0]LogD3D12RHI: Async texture creation enabled
+[2023.05.02-17.10.35:255][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.05.02-17.10.35:262][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.05.02-17.10.35:267][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/NowaGra.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/NowaGra.uproject"  -platform=all'
+[2023.05.02-17.10.35:267][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/NowaGra.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/NowaGra.uproject"  -platform=all" ]
+[2023.05.02-17.10.35:283][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.02-17.10.35:288][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.02-17.10.35:288][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.02-17.10.35:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.02-17.10.35:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.02-17.10.35:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.02-17.10.35:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.02-17.10.35:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.02-17.10.35:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.02-17.10.35:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.02-17.10.35:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.02-17.10.35:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.02-17.10.35:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.02-17.10.35:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.02-17.10.35:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.02-17.10.35:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.02-17.10.35:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.02-17.10.35:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.02-17.10.35:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.02-17.10.35:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.02-17.10.35:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.02-17.10.35:318][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.02-17.10.35:323][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.02-17.10.35:324][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.05.02-17.10.35:324][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.05.02-17.10.35:325][  0]LogTargetPlatformManager:   ADPCM
+[2023.05.02-17.10.35:325][  0]LogTargetPlatformManager:   PCM
+[2023.05.02-17.10.35:326][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.05.02-17.10.35:326][  0]LogTargetPlatformManager:   BINKA
+[2023.05.02-17.10.35:326][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.02-17.10.35:326][  0]LogTargetPlatformManager:   OGG
+[2023.05.02-17.10.35:326][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.05.02-17.10.35:326][  0]LogTargetPlatformManager:   OPUS
+[2023.05.02-17.10.35:354][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.05.02-17.10.35:354][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   SF_METAL
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.02-17.10.35:358][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.02-17.10.35:360][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.02-17.10.35:360][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.02-17.10.35:360][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.02-17.10.35:360][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.02-17.10.35:360][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.02-17.10.35:360][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.02-17.10.35:360][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.02-17.10.35:360][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.02-17.10.35:360][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.02-17.10.35:360][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.02-17.10.35:360][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.02-17.10.35:360][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.02-17.10.35:363][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.02-17.10.35:363][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.02-17.10.35:363][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.02-17.10.35:363][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.02-17.10.35:375][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.02-17.10.35:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.02-17.10.35:375][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.02-17.10.35:379][  0]LogDerivedDataCache: Speed tests for C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.05.02-17.10.35:379][  0]LogDerivedDataCache: Display: Performance to C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2030.77MBs, RandomWriteSpeed=324.84MBs. Assigned SpeedClass 'Local'
+[2023.05.02-17.10.35:381][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.02-17.10.35:381][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.02-17.10.35:381][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.05.02-17.10.35:385][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.05.02-17.10.35:385][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.05.02-17.10.35:385][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Intermediate/Shaders/WorkingDirectory/7996/).
+[2023.05.02-17.10.35:385][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Voldur/AppData/Local/Temp/UnrealShaderWorkingDir/2F4747684F6045F1C09D2EB516A32C7A/'.
+[2023.05.02-17.10.35:385][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.02-17.10.35:385][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 12 workers.
+[2023.05.02-17.10.36:218][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.02-17.10.36:218][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.02-17.10.36:244][  0]LogAssetRegistry: FAssetRegistry took 0.0076 seconds to start up
+[2023.05.02-17.10.36:249][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.02-17.10.36:351][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.05.02-17.10.36:352][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.05.02-17.10.36:489][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.02-17.10.36:489][  0]LogDeviceProfileManager: Active device profile: [00000A052A70D900][00000A0521DC0000 50] WindowsEditor
+[2023.05.02-17.10.36:489][  0]LogDeviceProfileManager: Profiles: [00000A052A70D3C0][00000A050EF10000 50] Windows, [00000A052A70D900][00000A0521DC0000 50] WindowsEditor, [00000A052A70B7C0][00000A052BBB0000 50] WindowsServer, [00000A052A709140][00000A052BBB5000 50] WindowsClient, [00000A052A7094C0][00000A052BBB7800 50] IOS, [00000A052A70CCC0][00000A052BBBA000 50] iPadAir2, [00000A052A70CB00][00000A0521DC2800 50] IPadPro, [00000A052A70C940][00000A052BBBC800 50] iPadAir3, [00000A052A70D040][00000A052BBD0000 50] iPadAir4, [00000A052A70C400][00000A052BBD5000 50] iPadMini4, [00000A052A709840][00000A052BBD7800 50] iPadMini5, [00000A052A70AF00][00000A052BBDA000 50] iPadMini6, [00000A052BC40380][00000A052BC20000 50] iPhone6S, [00000A052BC40700][00000A052BC22800 50] iPhone7, [00000A052BC40A80][00000A052BC25000 50] iPodTouch7, [00000A052BC42680][00000A052BC2A000 50] iPhone6SPlus, [00000A052BC424C0][00000A052BC2C800 50] iPhone7Plus, [00000A052BC42300][00000A052BBB2800 50] iPhoneSE, [00000A052BC42140][00000A052BBDC800 50] iPhone8, [00000A052BC41F80][00000A052BC27800 50] iPhone8Plus, [00000A052BC40C40][00000A052BBF0000 50] iPhoneX, [00000A052BC40540][00000A052BBF5000 50] iPhoneXS, [00000A052BC42D80][00000A052BBF7800 50] iPhoneXSMax, [00000A052BC42BC0][00000A052BBFA000 50] iPhoneXR, [00000A052BC42840][00000A052BBFC800 50] iPhone11, [00000A052BC41180][00000A052BBD2800 50] iPhone11Pro, [00000A052BC40E00][00000A052BC10000 50] iPhone11ProMax, [00000A052BC40FC0][00000A052BC15000 50] iPhoneSE2, [00000A052BC408C0][00000A052BC17800 50] iPhone12Mini, [00000A052BC43D40][00000A052BC1A000 50] iPhone12, [00000A052BC43640][00000A052BC1C800 50] iPhone12Pro, [00000A052BC42F40][00000A052BBF2800 50] iPhone12ProMax, [00000A052BC42A00][00000A052BBC0000 50] iPhone13Mini, [00000A052BC439C0][00000A052BBC5000 50] iPhone13, [00000A052BC40000][00000A052BBC7800 50] iPhone13Pro, [00000A052BC401C0][00000A052BBCA000 50] iPhone13ProMax, [00000A052BC41C00][00000A052BBCC800 50] iPadPro105, [00000A052BC44600][00000A052BC12800 50] iPadPro129, [00000A052BC41A40][00000A052BC30000 50] iPadPro97, [00000A052BC44D00][00000A052BC35000 50] iPadPro2_129, [00000A052BC43F00][00000A052BC37800 50] iPad5, [00000A052BC41500][00000A052BC3A000 50] iPad6, [00000A052BC43B80][00000A052BC3C800 50] iPad7, [00000A052BC43800][00000A052BBC2800 50] iPad8, [00000A052BC41340][00000A052BC60000 50] iPad9, [00000A052BC432C0][00000A052BC65000 50] iPadPro11, [00000A052BC41DC0][00000A052BC67800 50] iPadPro2_11, [00000A052BC45080][00000A052BC6A000 50] iPadPro3_11, [00000A052BC43100][00000A052BC6C800 50] iPadPro3_129, [00000A052BC44EC0][00000A052BC32800 50] iPadPro4_129, [00000A052BC44280][00000A052BC70000 50] iPadPro5_129, [00000A052BC440C0][00000A052BC75000 50] AppleTV, [00000A052BC44980][00000A052BC77800 50] AppleTV4K, [00000A052BC44440][00000A052BC7A000 50] TVOS, [00000A052BC48C00][00000A052BC62800 50] Mac, [00000A052BC48F80][00000A052BC7C800 50] MacEditor, [00000A052BC48A40][00000A052BC80000 50] MacClient, [00000A052BC43480][00000A052BC85000 50] MacServer, [00000A052BC46AC0][00000A052BC8A000 50] Linux, [00000A052BC46580][00000A052BC87800 50] LinuxEditor, [00000A052BC47700][00000A052BC8C800 50] LinuxArm64Editor, [00000A052BC49140][00000A052BC72800 50] LinuxArm64, [00000A052BC49680][00000A052BC90000 50] LinuxClient, [00000A052BC49840][00000A052BC95000 50] LinuxArm64Client, [00000A052BC48500][00000A052BC97800 50] LinuxServer, [00000A052BC486C0][00000A052BC9A000 50] LinuxArm64Server, [00000A052BC48DC0][00000A052BC9C800 50] Android, [00000A052BC45780][00000A052BC82800 50] Android_Preview_OpenGL, [00000A052BC47A80][00000A052BCA0000 50] Android_Preview_Vulkan, [00000A052BC45240][00000A052BCA5000 50] Android_Low, [00000A052BC49A00][00000A052BCA7800 50] Android_Mid, [00000A052BC44B40][00000A052BCAA000 50] Android_High, [00000A052BC471C0][00000A052BCAC800 50] Android_Default, [00000A052BC45B00][00000A052BC92800 50] Android_Adreno4xx, [00000A052BC46040][00000A052BCB0000 50] Android_Adreno5xx_Low, [00000A052BC478C0][00000A052BCB5000 50] Android_Adreno5xx, [00000A052BC494C0][00000A052BCB7800 50] Android_Adreno6xx, [00000A052BC48340][00000A052BCBA000 50] Android_Adreno6xx_Vulkan, [00000A052BC47540][00000A052BCBC800 50] Android_Adreno7xx, [00000A052BC45E80][00000A052BCA2800 50] Android_Adreno7xx_Vulkan, [00000A052BC49D80][00000A052BCC0000 50] Android_Mali_T6xx, [00000A052BC46200][00000A052BCC5000 50] Android_Mali_T7xx, [00000A052BC41880][00000A052BCC7800 50] Android_Mali_T8xx, [00000A052BC48880][00000A052BCCA000 50] Android_Mali_G71, [00000A052BC46900][00000A052BCCC800 50] Android_Mali_G72, [00000A052BC455C0][00000A052BCB2800 50] Android_Mali_G72_Vulkan, [00000A052BC46740][00000A052BCD0000 50] Android_Mali_G76, [00000A052BC46E40][00000A052BCD5000 50] Android_Mali_G76_Vulkan, [00000A052BC4A2C0][00000A052BCD7800 50] Android_Mali_G77, [00000A052BC4A480][00000A052BCDA000 50] Android_Mali_G77_Vulkan, [00000A052BC49300][00000A052BCDC800 50] Android_Mali_G78, [00000A052BC45400][00000A052BCC2800 50] Android_Mali_G78_Vulkan, [00000A052BC463C0][00000A052BCE0000 50] Android_Mali_G710, [00000A052BC4A100][00000A052BCE5000 50] Android_Mali_G710_Vulkan, [00000A052BC49BC0][00000A052BCE7800 50] Android_Xclipse_920, [00000A052BC4A9C0][00000A052BCEA000 50] Android_Xclipse_920_Vulkan, [00000A052BC47C40][00000A052BCEC800 50] Android_Vulkan_SM5, [00000A052BC49F40][00000A052BCD2800 50] Android_PowerVR_G6xxx, [00000A052BC4B280][00000A052BCF0000 50] Android_PowerVR_GT7xxx, [00000A052BC4A800][00000A052BCF5000 50] Android_PowerVR_GE8xxx, [00000A052BC4B980][00000A052BCF7800 50] Android_PowerVR_GM9xxx, [00000A052BC447C0][00000A052BCFA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A052BC4AD40][00000A052BCFC800 50] Android_TegraK1, [00000A052BC4B0C0][00000A052BCE2800 50] Android_Unknown_Vulkan, [00000A052BC416C0][00000A052BD00000 50] Oculus_Quest, [00000A052BC47FC0][00000A052BD05000 50] Oculus_Quest2, [00000A052BC4B440][00000A052BD07800 50] HoloLens, 
+[2023.05.02-17.10.36:489][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.02-17.10.36:502][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.02-17.10.36:610][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.02-17.10.36:610][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.02-17.10.36:610][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.02-17.10.36:610][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.02-17.10.36:610][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.02-17.10.36:619][  0]LogNetVersion: NowaGra 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1288811212)
+[2023.05.02-17.10.36:688][  0]LogSlate: Border
+[2023.05.02-17.10.36:688][  0]LogSlate: BreadcrumbButton
+[2023.05.02-17.10.36:688][  0]LogSlate: Default
+[2023.05.02-17.10.36:688][  0]LogSlate: Icons.Save
+[2023.05.02-17.10.36:688][  0]LogSlate: Icons.Toolbar.Settings
+[2023.05.02-17.10.36:688][  0]LogSlate: ListView
+[2023.05.02-17.10.36:688][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.05.02-17.10.36:688][  0]LogSlate: SoftwareCursor_Grab
+[2023.05.02-17.10.36:688][  0]LogSlate: TableView.DarkRow
+[2023.05.02-17.10.36:688][  0]LogSlate: TableView.Row
+[2023.05.02-17.10.36:688][  0]LogSlate: TreeView
+[2023.05.02-17.10.36:790][  0]SourceControl: Source control is disabled
+[2023.05.02-17.10.36:805][  0]SourceControl: Source control is disabled
+[2023.05.02-17.10.36:805][  0]SourceControl: Source control is disabled
+[2023.05.02-17.10.36:872][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.05.02-17.10.36:872][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.05.02-17.10.36:872][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.02-17.10.36:998][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 43AEF37648E64AB8F94EF396FD940D63 | Instance: FBD7F46141E5CF5DECB4E48127D6B76F (DESKTOP-A0J4LHC-7996).
+[2023.05.02-17.10.37:024][  0]LogPython: Using Python 3.9.7
+[2023.05.02-17.10.37:635][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.02-17.10.37:639][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.02-17.10.37:751][  0]SourceControl: Source control is disabled
+[2023.05.02-17.10.37:753][  0]SourceControl: Source control is disabled
+[2023.05.02-17.10.37:755][  0]SourceControl: Source control is disabled
+[2023.05.02-17.10.37:762][  0]LogUProjectInfo: Found projects:
+[2023.05.02-17.10.37:764][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.02-17.10.37:765][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.02-17.10.37:765][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.02-17.10.37:806][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.02-17.10.37:921][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.02-17.10.37:921][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.02-17.10.37:944][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.02-17.10.38:014][  0]LogCollectionManager: Loaded 0 collections in 0.001121 seconds
+[2023.05.02-17.10.38:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Collections/' took 0.00s
+[2023.05.02-17.10.38:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Developers/Voldur/Collections/' took 0.00s
+[2023.05.02-17.10.38:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Collections/' took 0.00s
+[2023.05.02-17.10.38:214][  0]LogEngine: Initializing Engine...
+[2023.05.02-17.10.38:222][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.05.02-17.10.38:223][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.02-17.10.38:372][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.02-17.10.38:372][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.02-17.10.38:379][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-17.10.38:395][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.02-17.10.38:396][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.02-17.10.38:409][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.02-17.10.38:409][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.02-17.10.38:409][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.02-17.10.38:409][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.02-17.10.38:409][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.02-17.10.38:409][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-17.10.38:409][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-17.10.38:409][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-17.10.38:409][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-17.10.38:409][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.02-17.10.38:409][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-17.10.38:409][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.02-17.10.38:409][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-17.10.38:410][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-17.10.38:410][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-17.10.38:410][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-17.10.38:416][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-17.10.38:434][  0]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.02-17.10.38:434][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-17.10.38:435][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-17.10.38:435][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-17.10.38:436][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.02-17.10.38:436][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.02-17.10.38:437][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.02-17.10.38:437][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.02-17.10.38:437][  0]LogInit: FAudioDevice initialized.
+[2023.05.02-17.10.38:437][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.02-17.10.38:437][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.02-17.10.38:437][  0]LogInit: Texture streaming: Enabled
+[2023.05.02-17.10.38:457][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.05.02-17.10.38:462][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.02-17.10.38:476][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.02-17.10.38:481][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.05.02-17.10.38:482][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.05.02-17.10.39:123][  0]LogLiveCoding: Display: First instance in process group "UE_NowaGra_0x75dee456", spawning console
+[2023.05.02-17.10.39:123][  0]LogLiveCoding: Display: Waiting for server
+[2023.05.02-17.10.39:123][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.05.02-17.10.39:135][  0]LogInit: Transaction tracking system initialized
+[2023.05.02-17.10.39:179][  0]BlueprintLog: New page: Editor Load
+[2023.05.02-17.10.39:290][  0]LocalizationService: Localization service is disabled
+[2023.05.02-17.10.39:318][  0]TimingProfiler: Initialize
+[2023.05.02-17.10.39:318][  0]TimingProfiler: OnSessionChanged
+[2023.05.02-17.10.39:318][  0]LoadingProfiler: Initialize
+[2023.05.02-17.10.39:318][  0]LoadingProfiler: OnSessionChanged
+[2023.05.02-17.10.39:318][  0]NetworkingProfiler: Initialize
+[2023.05.02-17.10.39:318][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.02-17.10.39:318][  0]MemoryProfiler: Initialize
+[2023.05.02-17.10.39:318][  0]MemoryProfiler: OnSessionChanged
+[2023.05.02-17.10.39:425][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.02-17.10.39:425][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.02-17.10.39:426][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.05.02-17.10.39:660][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/' took 0.01s
+[2023.05.02-17.10.39:660][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.05.02-17.10.39:736][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.02-17.10.39:737][  0]SourceControl: Source control is disabled
+[2023.05.02-17.10.39:737][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.744
+[2023.05.02-17.10.39:737][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.02-17.10.39:738][  0]LightingResults: New page: Lighting Build
+[2023.05.02-17.10.39:741][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-17.10.39:741][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-17.10.39:741][  0]MapCheck: New page: Map Check
+[2023.05.02-17.10.39:741][  0]LightingResults: New page: Lighting Build
+[2023.05.02-17.10.39:745][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.02-17.10.39:747][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.02-17.10.39:868][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Warning: Pin 'NewParam' on boundary node 'K2Node_Composite_0' could not be found in the composite node 'EdGraphSchema_K2_8'
+[2023.05.02-17.10.39:868][  0]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Failed to collapse tunnel  Outputs
+[2023.05.02-17.10.39:873][  0]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Unexpected node type K2Node_Tunnel encountered at  Outputs
+[2023.05.02-17.10.39:873][  0]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Unexpected node type K2Node_Tunnel encountered at  Outputs
+[2023.05.02-17.10.40:192][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400 should be resaved to improve async compilation performance.
+[2023.05.02-17.10.40:212][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2023.05.02-17.10.40:219][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500 should be resaved to improve async compilation performance.
+[2023.05.02-17.10.40:232][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 should be resaved to improve async compilation performance.
+[2023.05.02-17.10.40:243][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder should be resaved to improve async compilation performance.
+[2023.05.02-17.10.40:251][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2023.05.02-17.10.40:324][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.05.02-17.10.40:324][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.02-17.10.40:324][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-17.10.40:324][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.02-17.10.40:377][  0]LogNiagara: Compiling System NiagaraSystem /Game/NewContent/Player_Items/TorchFire.TorchFire took 0.095728 sec, no shader worker used.
+[2023.05.02-17.10.40:385][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.02-17.10.40:392][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.05.02-17.10.40:393][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.02-17.10.40:393][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2023.05.02-17.10.40:393][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.656
+[2023.05.02-17.10.40:402][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.409
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: ================================================
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.02-17.10.40:402][  0]LogShaderCompilers: Display: ================================================
+[2023.05.02-17.10.40:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-17.10.40:515][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-17.10.40:518][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-17.10.40:521][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-17.10.40:552][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:552][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:552][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:552][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:553][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:553][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:553][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:553][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:553][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:553][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:554][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:554][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:554][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:554][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:554][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:554][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:554][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:554][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:555][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.05.02-17.10.40:555][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.02-17.10.40:555][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.05.02-17.10.40:644][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.02-17.10.40:646][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.02-17.10.40:646][  0]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.02-17.10.40:657][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.05.02-17.10.40:947][  0]LogStall: Startup...
+[2023.05.02-17.10.40:949][  0]LogStall: Startup complete.
+[2023.05.02-17.10.40:957][  0]LogLoad: (Engine Initialization) Total time: 6.96 seconds
+[2023.05.02-17.10.40:958][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.02-17.10.40:988][  0]LogAssetRegistry: Asset discovery search completed in 4.7447 seconds
+[2023.05.02-17.10.40:994][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2023.05.02-17.10.41:018][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.02-17.10.41:308][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/' took 0.33s
+[2023.05.02-17.10.42:315][  4]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.02-17.11.07:162][556]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.02-17.11.07:165][556]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.02-17.11.18:325][347]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Voldur\Downloads\monetaa.fbx)
+[2023.05.02-17.11.18:340][347]LogFbx: Loading FBX Scene from C:\Users\Voldur\Downloads\monetaa.fbx
+[2023.05.02-17.11.18:348][347]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.02-17.11.35:879][347]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.02-17.11.35:894][347]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 4112DC3FAC1AEF7ACB740C7C65FC915BF3110208), compiling. 
+[2023.05.02-17.11.35:897][347]LogFbx: Display: Triangulating static mesh Cylinder
+[2023.05.02-17.11.35:904][347]LogFbx: Display: Triangulating static mesh $.001
+[2023.05.02-17.11.35:935][347]LogFbx: Display: Triangulating static mesh $.002
+[2023.05.02-17.11.35:968][347]LogStaticMesh: Display: Building static mesh monetaa...
+[2023.05.02-17.11.35:990][347]LogStaticMesh: Built static mesh [0.02s] /Game/NewContent/Models/monetaa.monetaa
+[2023.05.02-17.11.36:003][347]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.02-17.11.36:071][347]LogStaticMesh: Display: Building static mesh monetaa...
+[2023.05.02-17.11.36:071][347]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/NewContent/Models/monetaa) ...
+[2023.05.02-17.11.36:084][347]LogStaticMesh: Built static mesh [0.02s] /Game/NewContent/Models/monetaa.monetaa
+[2023.05.02-17.11.38:752][626]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.11.38:754][626]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.11.43:114][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/NewContent/Models/monetaa.monetaa
+[2023.05.02-17.11.43:114][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/NewContent/Models/monetaa.monetaa
+[2023.05.02-17.11.43:115][126]LogActorFactory: Actor Factory spawned StaticMesh /Game/NewContent/Models/monetaa.monetaa as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_0
+[2023.05.02-17.11.45:231][375]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/NewContent/Models/monetaa.monetaa
+[2023.05.02-17.11.45:231][375]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/NewContent/Models/monetaa.monetaa
+[2023.05.02-17.11.45:232][375]LogActorFactory: Actor Factory spawned StaticMesh /Game/NewContent/Models/monetaa.monetaa as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_2
+[2023.05.02-17.12.35:556][262]LogDerivedDataCache: C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.023 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.02-17.13.29:312][815]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/4CodeLock.4CodeLock
+[2023.05.02-17.13.29:312][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-17.13.29:836][815]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.02-17.14.39:399][273]Cmd: DELETE
+[2023.05.02-17.14.39:399][273]Cmd: ACTOR DELETE
+[2023.05.02-17.14.39:401][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.02-17.14.39:418][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.05.02-17.14.39:419][273]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.05.02-17.20.41:174][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.02-17.20.41:180][ 79]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005173 seconds
+[2023.05.02-17.20.41:208][ 79]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2023.05.02-17.20.41:209][ 79]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Minimal_Default_Auto13628F33F44CC395CDB7BE893CFD23AE4.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2023.05.02-17.20.41:214][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.058
+[2023.05.02-17.20.41:214][ 79]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2023.05.02-17.20.41:214][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewContent/Models/monetaa] ([1] browsable assets)...
+[2023.05.02-17.20.41:297][ 79]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NewContent/Models/monetaa.monetaa]
+[2023.05.02-17.20.41:297][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewContent/Models/monetaa]
+[2023.05.02-17.20.41:304][ 79]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewContent/Models/monetaa_Auto1
+[2023.05.02-17.20.41:304][ 79]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/monetaa_Auto13021DE034B7B0BA70F741DA8097465F7.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/NewContent/Models/monetaa_Auto1.uasset'
+[2023.05.02-17.20.41:304][ 79]LogFileHelpers: Auto-saving content packages took 0.091
+[2023.05.02-17.26.18:145][503]Cmd: DELETE
+[2023.05.02-17.26.18:145][503]Cmd: ACTOR DELETE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.SkyLight_1.Sprite is already used by BillboardComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SkyLight_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1 is already used by Landscape /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_0 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_1 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_10 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_11 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_12 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_13 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_14 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_15 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_16 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_17 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_18 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_18, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_19 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_19, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_2 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_20 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_20, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_21 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_21, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_22 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_22, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_23 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_23, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_24 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_24, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_25 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_25, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_26 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_26, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_27 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_27, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_28 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_28, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_29 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_29, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:150][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_3 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_30 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_30, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_31 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_31, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_32 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_32, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_33 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_33, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_34 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_34, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_35 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_35, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_36 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_36, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_37 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_37, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_38 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_38, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_39 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_39, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_4 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_40 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_40, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_41 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_41, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_42 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_42, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_43 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_43, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_44 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_44, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_45 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_45, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_46 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_46, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_47 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_47, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_48 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_48, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_49 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_49, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_5 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_50 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_50, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_51 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_51, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_52 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_52, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_53 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_53, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_54 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_54, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_55 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_55, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_56 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_56, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_57 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_57, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_58 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_58, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_59 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_59, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_6 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_60 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_60, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_61 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_61, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_62 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_62, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_63 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_63, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:151][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_7 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_8 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_9 is already used by LandscapeComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_101 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_101, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_102 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_102, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_103 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_103, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_104 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_104, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_105 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_105, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_106 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_106, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_107 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_107, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_108 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_108, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_109 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_109, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_110 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_110, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_111 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_111, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_112 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_112, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_113 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_113, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_114 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_114, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_115 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_115, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_116 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_116, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_117 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_117, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_118 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_118, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_119 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_119, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_120 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_120, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_121 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_121, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_122 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_122, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_123 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_123, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_124 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_124, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_125 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_125, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_126 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_126, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_127 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_127, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_64 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_64, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_65 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_65, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_66 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_66, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_67 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_67, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_69 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_69, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_70 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_70, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_71 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_71, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_72 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_72, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_73 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_73, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_77 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_77, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_78 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_78, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_79 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_79, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_80 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_80, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_81 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_81, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_85 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_85, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_86 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_86, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_87 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_87, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_88 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_88, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_89 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_89, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_90 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_90, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_93 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_93, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_94 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_94, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:152][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_95 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_95, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:153][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_96 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_96, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:153][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_97 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_97, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:153][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_98 is already used by LandscapeHeightfieldCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_98, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:153][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_1 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_10 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_11 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_2 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_3 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_4 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_5 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_6 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_7 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_8 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by LandscapeMeshCollisionComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_9 is already used by LandscapeMeshCollisionComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Landscape_1.LandscapeMeshCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:154][503]LogUObjectGlobals: Warning: Guid referenced by SkyLightComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.Minimal_Default:PersistentLevel.SkyLight_1.SkyLightComponent0 is already used by SkyLightComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SkyLight_1.SkyLightComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.05.02-17.26.18:161][503]LogEditorActor: Deleted Actor: 4CodeLock_C
+[2023.05.02-17.26.18:179][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.05.02-17.26.18:180][503]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.05.02-17.26.20:160][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-17.26.20:164][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-17.26.20:164][738]BlueprintLog: Warning: Blueprint failed to compile:  4CodeLock
+[2023.05.02-17.26.20:165][738]LogCustomDialog: Dialog displayed:
+[2023.05.02-17.26.28:484][738]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.02-17.26.36:760][723]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.26.36:764][723]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.27.13:554][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/4CodeLock" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset" SILENT=true
+[2023.05.02-17.27.13:571][ 31]LogSavePackage: Moving output files for package: /Game/Rooms/4CodeLock
+[2023.05.02-17.27.13:571][ 31]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/4CodeLock4B5D16E844820FCE68942A9CAB347B81.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset'
+[2023.05.02-17.27.13:581][ 31]AssetCheck: New page: Asset Save: 4CodeLock
+[2023.05.02-17.27.13:581][ 31]LogContentValidation: Display: Validating Blueprint /Game/Rooms/4CodeLock.4CodeLock
+[2023.05.02-17.27.16:485][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-17.27.16:489][342]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.02-17.27.16:490][342]LogPlayLevel: [PlayLevel] Compiling 4CodeLock before play...
+[2023.05.02-17.27.16:499][342]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Cast To MeshComponent  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.05.02-17.27.16:501][342]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.05.02-17.27.16:501][342]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.05.02-17.27.16:514][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_1.BillboardComponent_0) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.16:525][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_3.BillboardComponent_0) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.16:542][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.05.02-17.27.16:543][342]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2023.05.02-17.27.16:543][342]BlueprintLog: Warning: Blueprint failed to compile:  4CodeLock
+[2023.05.02-17.27.16:543][342]LogCustomDialog: Dialog displayed:
+[2023.05.02-17.27.18:300][342]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.02-17.27.20:328][573]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.27.20:332][573]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.27.28:102][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/4CodeLock" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset" SILENT=true
+[2023.05.02-17.27.28:119][464]LogSavePackage: Moving output files for package: /Game/Rooms/4CodeLock
+[2023.05.02-17.27.28:119][464]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/4CodeLockBFA6FFF34C700C72ABC374BAAC2E5AE2.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset'
+[2023.05.02-17.27.28:127][464]AssetCheck: New page: Asset Save: 4CodeLock
+[2023.05.02-17.27.28:127][464]LogContentValidation: Display: Validating Blueprint /Game/Rooms/4CodeLock.4CodeLock
+[2023.05.02-17.27.30:151][678]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-17.27.30:155][678]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.02-17.27.30:155][678]LogPlayLevel: [PlayLevel] Compiling 4CodeLock before play...
+[2023.05.02-17.27.30:160][678]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Warning: Pin 'NewParam' on boundary node 'K2Node_Composite_0' could not be found in the composite node 'EdGraphSchema_K2_29'
+[2023.05.02-17.27.30:160][678]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Failed to collapse tunnel  Outputs
+[2023.05.02-17.27.30:162][678]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Cast To MeshComponent  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.05.02-17.27.30:165][678]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.05.02-17.27.30:165][678]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.05.02-17.27.30:165][678]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Unexpected node type K2Node_Tunnel encountered at  Outputs
+[2023.05.02-17.27.30:165][678]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Unexpected node type K2Node_Tunnel encountered at  Outputs
+[2023.05.02-17.27.30:178][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_5.BillboardComponent_0) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.30:184][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_7.BillboardComponent_0) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.30:201][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.05.02-17.27.30:202][678]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2023.05.02-17.27.30:202][678]BlueprintLog: Warning: Blueprint failed to compile:  4CodeLock
+[2023.05.02-17.27.30:202][678]LogCustomDialog: Dialog displayed:
+[2023.05.02-17.27.31:699][678]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.02-17.27.34:359][987]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.27.34:362][987]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.27.45:052][255]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.27.45:055][255]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_9.BillboardComponent_0) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.45:615][266]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.27.45:621][266]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.46:008][310]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-17.27.46:014][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.46:423][357]LogEditorTransaction: Undo Move Node
+[2023.05.02-17.27.46:431][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.46:866][407]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.27.46:872][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.47:308][457]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.27.47:315][457]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.47:749][507]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.27.47:756][507]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.48:225][561]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.27.48:233][561]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.48:659][610]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.27.48:665][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.50:284][802]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.27.50:290][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.27.55:680][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/4CodeLock" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset" SILENT=true
+[2023.05.02-17.27.55:697][432]LogSavePackage: Moving output files for package: /Game/Rooms/4CodeLock
+[2023.05.02-17.27.55:698][432]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/4CodeLock9EC7B07B4F47C75C9CC3FB95B88D1ACF.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset'
+[2023.05.02-17.27.55:707][432]AssetCheck: New page: Asset Save: 4CodeLock
+[2023.05.02-17.27.55:707][432]LogContentValidation: Display: Validating Blueprint /Game/Rooms/4CodeLock.4CodeLock
+[2023.05.02-17.28.07:927][852]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.28.07:934][852]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.28.08:493][866]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.28.08:501][866]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.28.08:944][917]LogEditorTransaction: Undo Move Node
+[2023.05.02-17.28.08:951][917]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.28.35:205][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/4CodeLock" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset" SILENT=true
+[2023.05.02-17.28.35:222][ 15]LogSavePackage: Moving output files for package: /Game/Rooms/4CodeLock
+[2023.05.02-17.28.35:222][ 15]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/4CodeLockBC6A59634A899728D82A9F84991E8774.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset'
+[2023.05.02-17.28.35:230][ 15]AssetCheck: New page: Asset Save: 4CodeLock
+[2023.05.02-17.28.35:230][ 15]LogContentValidation: Display: Validating Blueprint /Game/Rooms/4CodeLock.4CodeLock
+[2023.05.02-17.28.36:921][197]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-17.28.36:925][197]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.02-17.28.36:926][197]LogPlayLevel: [PlayLevel] Compiling 4CodeLock before play...
+[2023.05.02-17.28.36:931][197]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Warning: Pin 'NewParam' on boundary node 'K2Node_Composite_0' could not be found in the composite node 'EdGraphSchema_K2_30'
+[2023.05.02-17.28.36:931][197]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Failed to collapse tunnel  Outputs
+[2023.05.02-17.28.36:933][197]LogBlueprint: Warning: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Cast To MeshComponent  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.05.02-17.28.36:936][197]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.05.02-17.28.36:936][197]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.05.02-17.28.36:936][197]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Unexpected node type K2Node_Tunnel encountered at  Outputs
+[2023.05.02-17.28.36:936][197]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\4CodeLock.uasset: [Compiler] Unexpected node type K2Node_Tunnel encountered at  Outputs
+[2023.05.02-17.28.36:959][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_35.BillboardComponent_0) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.28.36:968][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_37.BillboardComponent_0) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.28.36:988][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.02-17.28.36:989][197]LogPlayLevel: PlayLevel: Blueprint regeneration took 63 ms (1 blueprints)
+[2023.05.02-17.28.36:989][197]BlueprintLog: Warning: Blueprint failed to compile:  4CodeLock
+[2023.05.02-17.28.36:989][197]LogCustomDialog: Dialog displayed:
+[2023.05.02-17.28.38:446][197]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.02-17.28.40:125][387]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.28.40:128][387]LogSlate: Window 'Message Log' being destroyed
+[2023.05.02-17.28.44:481][861]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.28.44:487][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_39.BillboardComponent_0) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.28.44:964][870]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.28.44:971][870]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.28.45:723][951]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.28.45:730][951]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.28.46:439][ 33]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.28.46:446][ 33]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.01:655][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.01:669][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.01:677][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.18:047][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.18:060][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.52:603][764]LogEditorTransaction: Undo Move Nodes
+[2023.05.02-17.29.52:611][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.53:145][775]LogEditorTransaction: Undo Move Node
+[2023.05.02-17.29.53:151][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.53:590][823]LogEditorTransaction: Undo Move Nodes
+[2023.05.02-17.29.53:597][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.54:119][881]LogEditorTransaction: Undo Move Node
+[2023.05.02-17.29.54:126][881]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.54:548][927]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-17.29.54:554][927]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.54:952][970]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-17.29.54:958][970]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.29.55:456][ 25]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.29.55:467][ 25]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.23:478][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_71.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.23:496][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_73.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.23:503][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_75.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.32:844][380]LogEditorTransaction: Undo Move Nodes
+[2023.05.02-17.30.32:853][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_77.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.33:790][437]LogEditorTransaction: Undo Expand Node
+[2023.05.02-17.30.33:802][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.34:484][514]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-17.30.34:491][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.35:006][571]LogEditorTransaction: Undo Create Pin Link
+[2023.05.02-17.30.35:013][571]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.35:418][615]LogEditorTransaction: Undo Move Node
+[2023.05.02-17.30.35:425][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_85.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.35:839][660]LogEditorTransaction: Undo Move Node
+[2023.05.02-17.30.35:846][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_87.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.36:302][710]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.30.36:309][710]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_89.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.36:690][751]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.30.36:697][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_91.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.37:113][796]LogEditorTransaction: Undo Delete current selection
+[2023.05.02-17.30.37:120][796]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_93.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.38:044][900]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.02-17.30.38:051][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.40:560][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_97.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.40:576][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.40:584][175]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_101.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.30.48:684][126]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.31.00:719][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/4CodeLock" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset" SILENT=true
+[2023.05.02-17.31.00:736][539]LogSavePackage: Moving output files for package: /Game/Rooms/4CodeLock
+[2023.05.02-17.31.00:736][539]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/4CodeLock1D8F19A04A31B8FBB9BE618C011E8FF1.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/4CodeLock.uasset'
+[2023.05.02-17.31.00:747][539]AssetCheck: New page: Asset Save: 4CodeLock
+[2023.05.02-17.31.00:747][539]LogContentValidation: Display: Validating Blueprint /Game/Rooms/4CodeLock.4CodeLock
+[2023.05.02-17.31.03:704][856]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-17.31.03:708][856]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.02-17.31.03:709][856]LogPlayLevel: [PlayLevel] Compiling 4CodeLock before play...
+[2023.05.02-17.31.03:727][856]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.4_C_0.4CodeLock' is not static  (in blueprint "4"), cannot attach '/Engine/Transient.World_8:PersistentLevel.4CodeLock_GEN_VARIABLE_4CodeLock_C_CAT_0.DefaultSceneRoot' which is static to it. Aborting.
+[2023.05.02-17.31.03:766][856]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_105.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.31.03:779][856]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_4CodeLock_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.05.02-17.31.03:807][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.02-17.31.03:810][856]LogPlayLevel: PlayLevel: Blueprint regeneration took 101 ms (1 blueprints)
+[2023.05.02-17.31.03:811][856]PIE: New page: PIE session: Minimal_Default (2 maj 2023, 21:31:03)
+[2023.05.02-17.31.03:815][856]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.02-17.31.03:815][856]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.02-17.31.03:815][856]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.02-17.31.03:823][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008223s)
+[2023.05.02-17.31.03:823][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008277s)
+[2023.05.02-17.31.03:823][856]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.02-17.31.03:823][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-17.31.03:824][856]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.02-17.31.03:824][856]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2023.05.02-17.31.03:840][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.02-17.31.03:841][856]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.02-17.31.03:841][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-17.31.03:841][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-17.31.03:841][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-17.31.03:841][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-17.31.03:841][856]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.02-17.31.03:841][856]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-17.31.03:841][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.02-17.31.03:841][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-17.31.03:841][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-17.31.03:841][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-17.31.03:841][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-17.31.03:843][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-17.31.03:854][856]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.02-17.31.03:854][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-17.31.03:854][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-17.31.03:855][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-17.31.03:855][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.02-17.31.03:855][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.02-17.31.03:856][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.02-17.31.03:856][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.02-17.31.03:856][856]LogInit: FAudioDevice initialized.
+[2023.05.02-17.31.03:856][856]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2023.05.02-17.31.03:869][856]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.02-17.31.03:871][856]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.02-19.31.03
+[2023.05.02-17.31.03:871][856]LogWorld: Bringing up level for play took: 0.001508
+[2023.05.02-17.31.03:872][856]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.05.02-17.31.03:889][856]LogOutputDevice: Warning: 
+
+Script Stack (3 frames):
+4CodeLock_C.UserConstructionScript
+Room_C.ExecuteUbergraph_Room
+Room_C.ReceiveBeginPlay
+
+[2023.05.02-17.31.03:926][856]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.037 s
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: === Handled ensure: ===
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: 
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 840]
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: Type mismatch: Expected 4CodeLock_C, Found REINST_4CodeLock_C_59
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: Stack: 
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd14f1074 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcfb1bae6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcffc622a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd83ae34b UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd83bfea0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd8382f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd8382244 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd815bc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd8381837 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd11003f4 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd1100513 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd10dda80 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd10e20f5 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd1671779 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd15f866c UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd1624cc9 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd290a1dc UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd286a32e UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd286a6a1 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd28e5753 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd10dd8b2 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd10e20f5 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd199968a UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd2fe13b6 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd83ba87a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd83bce4f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd8382f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd835934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd8382b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd8382f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd8382244 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd815bc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd8381837 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd11003f4 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd10ca066 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd10d4fef UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd2eccae2 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd1a09d11 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd2df6298 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd19c45d5 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcfc99918 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcfccece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:926][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcfc9a3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcfced4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcfcf0cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcfcf05a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ffdcf68dcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ffdd001aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ff7c8b582f6 UnrealEditor.exe!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ff7c8b70d9c UnrealEditor.exe!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ff7c8b70e8a UnrealEditor.exe!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ff7c8b73c4d UnrealEditor.exe!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ff7c8b85564 UnrealEditor.exe!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ff7c8b88736 UnrealEditor.exe!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ffe6d737604 KERNEL32.DLL!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: [Callstack] 0x00007ffe6f6426a1 ntdll.dll!UnknownFunction []
+[2023.05.02-17.31.03:927][856]LogOutputDevice: Error: 
