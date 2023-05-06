@@ -5362,3 +5362,25 @@ Room_C.ReceiveBeginPlay
 [2023.05.06-16.46.29:435][509]LogFileHelpers: No new changes to save!
 [2023.05.06-16.46.29:451][509]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.05.06-16.46.29:451][509]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.06-16.53.32:377][490]LogContentBrowser: Attempting asset rename: F2R1 -> F2R9
+[2023.05.06-16.53.32:413][490]LogMetaData: Removing '/Game/Rooms/F2R9.SKEL_F2R9_C' ref from Metadata '/Game/Rooms/F2R1.PackageMetaData'
+[2023.05.06-16.53.32:413][490]LogMetaData: Removing '/Game/Rooms/F2R9.F2R9_C' ref from Metadata '/Game/Rooms/F2R1.PackageMetaData'
+[2023.05.06-16.53.32:413][490]LogMetaData: Removing '/Game/Rooms/F2R9.F2R9_C:ReceiveBeginPlay' ref from Metadata '/Game/Rooms/F2R1.PackageMetaData'
+[2023.05.06-16.53.32:413][490]LogMetaData: Removing '/Game/Rooms/F2R9.SKEL_F2R9_C:UserConstructionScript' ref from Metadata '/Game/Rooms/F2R1.PackageMetaData'
+[2023.05.06-16.53.32:413][490]LogMetaData: Removing '/Game/Rooms/F2R9.SKEL_F2R9_C:ReceiveTick' ref from Metadata '/Game/Rooms/F2R1.PackageMetaData'
+[2023.05.06-16.53.32:413][490]LogMetaData: Removing '/Game/Rooms/F2R9.SKEL_F2R9_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Rooms/F2R1.PackageMetaData'
+[2023.05.06-16.53.32:413][490]LogMetaData: Removing '/Game/Rooms/F2R9.SKEL_F2R9_C:ReceiveBeginPlay' ref from Metadata '/Game/Rooms/F2R1.PackageMetaData'
+[2023.05.06-16.53.32:533][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/F2R9" FILE="../../../../Projekty/gra-logiczna-3d/Content/Rooms/F2R9.uasset" SILENT=true
+[2023.05.06-16.53.32:541][490]LogSavePackage: Moving output files for package: /Game/Rooms/F2R9
+[2023.05.06-16.53.32:541][490]LogSavePackage: Moving '../../../../Projekty/gra-logiczna-3d/Saved/F2R91DC091DA4C804C3CD078BFB3160B156A.tmp' to '../../../../Projekty/gra-logiczna-3d/Content/Rooms/F2R9.uasset'
+[2023.05.06-16.53.32:653][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.06-16.53.32:723][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.06-16.53.32:789][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.05.06-16.53.32:798][490]AssetCheck: New page: Asset Save: F2R9
+[2023.05.06-16.53.32:799][490]LogContentValidation: Display: Validating Blueprint /Game/Rooms/F2R9.F2R9
+[2023.05.06-16.53.39:284][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.05.06-16.53.39:370][576]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.05.06-16.53.39:370][576]LogSavePackage: Moving '../../../../Projekty/gra-logiczna-3d/Saved/Minimal_Default0F9EF30E49B977189BA42092537C0A48.tmp' to '../../../../Projekty/gra-logiczna-3d/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.06-16.53.39:387][576]LogFileHelpers: No new changes to save!
+[2023.05.06-16.53.39:405][576]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.06-16.53.39:406][576]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
