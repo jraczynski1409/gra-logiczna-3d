@@ -868,3 +868,1175 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.08-15.03.15:543][644]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2A1E4FCB84D39B79906E034A698F3E6A6.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset'
 [2023.05.08-15.03.15:551][644]AssetCheck: New page: Asset Save: F2R2
 [2023.05.08-15.03.15:551][644]LogContentValidation: Display: Validating Blueprint /Game/Rooms/F2R2.F2R2
+[2023.05.08-15.04.30:398][539]LogViewport: Scene viewport resized to 760x440, mode Windowed.
+[2023.05.08-15.04.30:566][539]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.05.08-15.07.02:261][402]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.08-15.07.26:942][402]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.08-15.07.26:948][402]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.08-15.07.26:952][402]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.08-15.07.26:967][403]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.08-15.07.48:080][739]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Question
+[2023.05.08-15.07.48:087][739]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.08-15.07.49:241][876]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/RoomsAssets/BP_Question.BP_Question
+[2023.05.08-15.07.49:241][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.07.49:443][876]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.05.08-15.08.29:818][246]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.08.37:206][120]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.05.08-15.08.37:228][120]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.08-15.08.53:697][ 56]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.08-15.12.34:329][802]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.08-15.12.41:013][294]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.05.08-15.12.41:018][294]LogContentBrowser: Creating deferred item: NewInterface
+[2023.05.08-15.12.41:024][295]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.05.08-15.12.57:697][296]LogContentBrowser: Attempting asset rename: NewInterface -> F2R2_Dialogue
+[2023.05.08-15.12.57:700][296]LogContentBrowser: End creating deferred item NewInterface
+[2023.05.08-15.13.00:146][585]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/RoomsAssets/F2R2_Dialogue.F2R2_Dialogue
+[2023.05.08-15.13.00:146][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.13.17:732][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Dialogue" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Dialogue.uasset" SILENT=true
+[2023.05.08-15.13.17:733][319]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Dialogue
+[2023.05.08-15.13.17:733][319]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Dialogue35DD4F0144F72B2AE9B9D1B28CDBFC86.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Dialogue.uasset'
+[2023.05.08-15.13.17:741][319]AssetCheck: New page: Asset Save: F2R2_Dialogue
+[2023.05.08-15.13.17:741][319]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Dialogue.F2R2_Dialogue
+[2023.05.08-15.13.29:277][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewContent/BP_TEST/BP_a.BP_PlayerCharacter
+[2023.05.08-15.13.29:277][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.13.34:096][221]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.13.34:096][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.13.45:044][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.05.08-15.13.45:044][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.13.45:352][496]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.05.08-15.15.04:653][438]LogEditorTransaction: Undo Set Scale
+[2023.05.08-15.15.05:363][469]LogEditorTransaction: Undo Set Scale
+[2023.05.08-15.15.08:499][842]LogEditorTransaction: Undo Set Scale
+[2023.05.08-15.15.34:856][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/BP_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/BP_Question.uasset" SILENT=true
+[2023.05.08-15.15.34:858][938]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/BP_Question
+[2023.05.08-15.15.34:858][938]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/BP_Question86E5A6B541BCA9B8AA450A89D6CD6EEA.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/BP_Question.uasset'
+[2023.05.08-15.15.34:868][938]AssetCheck: New page: Asset Save: BP_Question
+[2023.05.08-15.15.34:868][938]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/BP_Question.BP_Question
+[2023.05.08-15.16.03:405][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/BP_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/BP_Question.uasset" SILENT=true
+[2023.05.08-15.16.03:408][300]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/BP_Question
+[2023.05.08-15.16.03:408][300]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/BP_QuestionB08E7AFB476F09FEB1D800BD4139BFC0.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/BP_Question.uasset'
+[2023.05.08-15.16.03:419][300]AssetCheck: New page: Asset Save: BP_Question
+[2023.05.08-15.16.03:419][300]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/BP_Question.BP_Question
+[2023.05.08-15.17.43:645][485]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.17.43:645][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.17.47:692][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.08-15.17.48:737][946]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.08-15.17.48:817][946]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Rooms/RoomsAssets/BP_Question.BP_Question
+	Asset Type: Blueprint
+[2023.05.08-15.17.49:048][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.08-15.17.49:108][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.05.08-15.17.49:137][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.05.08-15.17.49:165][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.08-15.18.00:638][520]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.08-15.18.00:653][520]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.08-15.18.00:658][520]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.08-15.18.00:666][521]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.08-15.18.08:544][467]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Question
+[2023.05.08-15.18.08:547][467]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.08-15.18.09:978][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/RoomsAssets/BP_Question.BP_Question
+[2023.05.08-15.18.09:978][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.18.10:187][634]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.05.08-15.18.22:062][ 28]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.18.25:825][468]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.08-15.18.32:395][217]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.18.34:961][506]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.19.57:903][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.19.59:644][432]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.21.03:954][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/BP_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/BP_Question.uasset" SILENT=true
+[2023.05.08-15.21.03:957][443]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/BP_Question
+[2023.05.08-15.21.03:957][443]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/BP_Question44DE8F5B4E31BF1C2F8FA68A442394A2.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/BP_Question.uasset'
+[2023.05.08-15.21.03:967][443]AssetCheck: New page: Asset Save: BP_Question
+[2023.05.08-15.21.03:967][443]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/BP_Question.BP_Question
+[2023.05.08-15.23.25:212][115]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.08-15.23.25:212][115]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.08-15.23.35:061][271]LogContentBrowser: Attempting asset rename: BP_Question -> F2R2_Question
+[2023.05.08-15.23.35:071][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:071][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.SKEL_F2R2_Question_C' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:071][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:071][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:072][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:072][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:072][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.SKEL_F2R2_Question_C:ReceiveBeginPlay' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:072][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.SKEL_F2R2_Question_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:072][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.SKEL_F2R2_Question_C:ReceiveTick' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:072][271]LogMetaData: Removing '/Game/Rooms/RoomsAssets/F2R2_Question.SKEL_F2R2_Question_C:UserConstructionScript' ref from Metadata '/Game/Rooms/RoomsAssets/BP_Question.PackageMetaData'
+[2023.05.08-15.23.35:149][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.23.35:152][271]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.23.35:152][271]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionC87F5F1147A75C6F1870CD8A0CF4BA11.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.23.35:216][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.08-15.23.35:251][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.08-15.23.35:283][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.08-15.23.35:288][271]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.23.35:288][271]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.23.42:854][160]LogSavePackage: Moving output files for package: /Game/StarterContent/Characters/BP_PlayerCharacter
+[2023.05.08-15.23.42:855][160]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/BP_PlayerCharacter5ABF4B6645958484FAA9A68F71C1CD9D.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/StarterContent/Characters/BP_PlayerCharacter.uasset'
+[2023.05.08-15.23.42:864][160]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2023.05.08-15.23.42:864][160]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.05.08-15.24.30:854][801]LogSavePackage: Moving output files for package: /Game/StarterContent/Characters/BP_PlayerCharacter
+[2023.05.08-15.24.30:854][801]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/BP_PlayerCharacterC9D1B169476A569D7EA3C58CF6C214DE.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/StarterContent/Characters/BP_PlayerCharacter.uasset'
+[2023.05.08-15.24.30:866][801]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2023.05.08-15.24.30:866][801]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.05.08-15.25.06:736][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.08-15.25.06:769][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2023.05.08-15.25.06:769][829]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Minimal_Default_Auto1F3E23D3041527FF83BB384B99F01BD78.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2023.05.08-15.25.06:774][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.073
+[2023.05.08-15.25.06:774][829]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2023.05.08-15.25.06:775][829]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Rooms/RoomsAssets/F2R2_Question] ([2] browsable assets)...
+[2023.05.08-15.25.06:788][829]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question]
+[2023.05.08-15.25.06:788][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rooms/RoomsAssets/F2R2_Question]
+[2023.05.08-15.25.06:790][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Rooms/RoomsAssets/F2R2_Question_Auto1
+[2023.05.08-15.25.06:790][829]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question_Auto10619D27C4DED11FB7CCC59ABE21483D8.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/Rooms/RoomsAssets/F2R2_Question_Auto1.uasset'
+[2023.05.08-15.25.06:791][829]LogFileHelpers: Auto-saving content packages took 0.017
+[2023.05.08-15.25.07:167][870]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.25.07:167][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.25.08:534][ 28]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.08-15.25.08:534][ 28]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.25.08:534][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.25.10:109][210]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.08-15.25.10:109][210]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.25.10:109][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.25.10:901][299]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.08-15.25.10:901][299]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.25.10:901][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.26.27:090][971]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.26.27:090][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.26.31:476][484]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/RoomsAssets/F2R2_Dialogue.F2R2_Dialogue
+[2023.05.08-15.26.31:476][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.28.05:378][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.28.05:380][573]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.28.05:380][573]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionF56F59714925E15C7B043ABB9E331390.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.28.05:392][573]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.28.05:392][573]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.28.11:690][148]LogSlate: Window 'Message' being destroyed
+[2023.05.08-15.28.11:694][148]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2023.05.08-15.28.22:860][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.28.22:862][467]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.28.22:862][467]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionA5523DE74D1F19CBFB5803AD613EC2E1.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.28.22:872][467]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.28.22:872][467]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.30.18:902][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.30.18:904][759]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.30.18:904][759]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question82C212D4417EA3D982BF7E91C9FA314C.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.30.18:914][759]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.30.18:915][759]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.30.40:636][301]LogSavePackage: Moving output files for package: /Game/StarterContent/Characters/BP_PlayerCharacter
+[2023.05.08-15.30.40:637][301]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/BP_PlayerCharacter6579F0464711B7717C9458810F9EC9B8.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/StarterContent/Characters/BP_PlayerCharacter.uasset'
+[2023.05.08-15.30.40:646][301]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2023.05.08-15.30.40:646][301]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.05.08-15.33.54:502][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.33.54:504][423]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.33.54:504][423]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question3B06AF174F9F7C388154009E09729F76.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.33.54:517][423]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.33.54:517][423]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.36.35:669][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.08-15.36.35:677][523]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.051
+[2023.05.08-15.36.35:678][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Rooms/RoomsAssets/F2R2_Question] ([2] browsable assets)...
+[2023.05.08-15.36.35:692][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question]
+[2023.05.08-15.36.35:692][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rooms/RoomsAssets/F2R2_Question]
+[2023.05.08-15.36.35:694][523]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Rooms/RoomsAssets/F2R2_Question_Auto2
+[2023.05.08-15.36.35:694][523]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question_Auto246C9B4424CCA3706F5E517B6A114BF52.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/Rooms/RoomsAssets/F2R2_Question_Auto2.uasset'
+[2023.05.08-15.36.35:695][523]LogFileHelpers: Auto-saving content packages took 0.018
+[2023.05.08-15.37.13:610][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.37.13:612][861]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.37.13:612][861]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionB5A8D2E646B672BCB39AAA8440B092C8.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.37.13:622][861]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.37.13:622][861]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.37.26:571][245]LogSlate: Window 'Message' being destroyed
+[2023.05.08-15.37.26:575][245]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2023.05.08-15.37.37:508][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.37.37:511][536]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.37.37:511][536]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question7870BCFF414C5C4344B54EA34558F20A.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.37.37:520][536]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.37.37:520][536]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.37.43:038][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.08-15.37.43:069][170]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.05.08-15.37.43:069][170]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Minimal_Default8A7C5CF94FB596332FBF05A999D361A5.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.08-15.37.43:078][170]LogFileHelpers: No new changes to save!
+[2023.05.08-15.37.43:085][170]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.08-15.37.43:085][170]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.08-15.38.21:054][ 41]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.38.58:774][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.38.58:777][ 18]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.38.58:777][ 18]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question6503C2814CE4E475694E3A8ED34DE4F0.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.38.58:787][ 18]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.38.58:787][ 18]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.40.32:658][862]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2023.05.08-15.40.32:662][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.40.32:666][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.40.32:673][862]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.05.08-15.40.32:857][862]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.08-15.40.32:857][862]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.08-15.40.32:945][862]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.05.08-15.40.44:410][211]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.40.44:410][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.40.44:417][211]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.40.44:417][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.40.48:156][647]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/dot.dot
+[2023.05.08-15.40.48:177][647]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.05.08-15.40.48:372][647]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2023.05.08-15.41.05:163][646]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/RoomsAssets/TrasfFloor2.TrasfFloor2
+[2023.05.08-15.41.05:163][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.41.37:174][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/TrasfFloor2" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/TrasfFloor2.uasset" SILENT=true
+[2023.05.08-15.41.37:176][384]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/TrasfFloor2
+[2023.05.08-15.41.37:176][384]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/TrasfFloor2F859AA8E4766AB6405E064AB254EFB08.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/TrasfFloor2.uasset'
+[2023.05.08-15.41.37:187][384]AssetCheck: New page: Asset Save: TrasfFloor2
+[2023.05.08-15.41.37:187][384]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/TrasfFloor2.TrasfFloor2
+[2023.05.08-15.41.38:197][503]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.41.38:197][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.42.37:814][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/RoomsAssets/6Interface.6Interface
+[2023.05.08-15.42.37:815][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.42.40:621][ 94]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.42.40:621][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.43.01:930][498]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/RoomsAssets/6Rotatory.6Rotatory
+[2023.05.08-15.43.01:930][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.43.48:964][ 88]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.43.48:964][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.44.11:262][732]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.08-15.44.34:029][896]LogSlate: Window 'Message' being destroyed
+[2023.05.08-15.44.34:032][896]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2023.05.08-15.44.42:408][531]LogSlate: Window 'Message' being destroyed
+[2023.05.08-15.44.42:412][531]Message dialog closed, result: Cancel, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2023.05.08-15.44.50:355][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/RoomsAssets/6Interface.6Interface
+[2023.05.08-15.44.50:355][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.45.27:598][719]BlueprintLog: New page: Compile F2R2_Question
+[2023.05.08-15.45.27:725][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.08-15.45.33:495][396]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.45.33:495][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.45.55:912][ 71]BlueprintLog: New page: Compile F2R2_Dialogue
+[2023.05.08-15.45.55:979][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.08-15.46.41:719][786]LogSlate: Took 0.002880 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.08-15.48.05:336][925]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.08-15.48.07:286][123]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.08-15.48.07:291][123]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.08-15.49.36:820][592]BlueprintLog: New page: Compile F2R2_Question
+[2023.05.08-15.49.36:876][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.08-15.50.01:458][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.50.01:461][938]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.50.01:462][938]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionA1DF474142DB82BA169783840C97AA9D.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.50.01:472][938]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.50.01:472][938]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.50.10:046][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Rooms/Room.Room
+[2023.05.08-15.50.10:046][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.50.18:539][500]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.08-15.50.23:791][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Room" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/Room.uasset" SILENT=true
+[2023.05.08-15.50.23:796][114]LogSavePackage: Moving output files for package: /Game/Rooms/Room
+[2023.05.08-15.50.23:796][114]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Room213F6DDF48684BFBDD0D10BF6AFE5269.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/Room.uasset'
+[2023.05.08-15.50.23:805][114]AssetCheck: New page: Asset Save: Room
+[2023.05.08-15.50.23:805][114]LogContentValidation: Display: Validating Blueprint /Game/Rooms/Room.Room
+[2023.05.08-15.50.39:496][938]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.50.39:504][939]LogViewport: Scene viewport resized to 481x284, mode Windowed.
+[2023.05.08-15.50.42:250][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-15.50.42:256][164]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.08-15.50.42:258][164]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2023.05.08-15.50.42:356][164]LogPlayLevel: [PlayLevel] Compiling F1R2 before play...
+[2023.05.08-15.50.42:380][164]LogPlayLevel: [PlayLevel] Compiling Room before play...
+[2023.05.08-15.50.42:382][164]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\Room.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2023.05.08-15.50.42:407][164]LogPlayLevel: [PlayLevel] Compiling TrasfFloor2 before play...
+[2023.05.08-15.50.42:428][164]LogPlayLevel: [PlayLevel] Compiling F2R1 before play...
+[2023.05.08-15.50.42:452][164]LogPlayLevel: [PlayLevel] Compiling F4R1 before play...
+[2023.05.08-15.50.42:489][164]LogPlayLevel: [PlayLevel] Compiling F1R1 before play...
+[2023.05.08-15.50.42:511][164]LogPlayLevel: [PlayLevel] Compiling F2R2 before play...
+[2023.05.08-15.50.42:532][164]LogPlayLevel: [PlayLevel] Compiling F2R2_Question before play...
+[2023.05.08-15.50.42:596][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.08-15.50.42:604][164]LogPlayLevel: PlayLevel: Blueprint regeneration took 347 ms (9 blueprints)
+[2023.05.08-15.50.42:604][164]BlueprintLog: Warning: Blueprint failed to compile:  Room
+[2023.05.08-15.50.42:604][164]LogCustomDialog: Dialog displayed:
+[2023.05.08-15.50.44:711][164]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.08-15.50.47:287][459]LogSlate: Window 'Message Log' being destroyed
+[2023.05.08-15.50.47:291][459]LogSlate: Window 'Message Log' being destroyed
+[2023.05.08-15.51.14:912][709]LogEditorTransaction: Undo Modify Component(s)
+[2023.05.08-15.51.16:178][803]LogEditorTransaction: Undo Modify Component(s)
+[2023.05.08-15.51.18:416][ 65]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-15.51.24:081][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/F2R2" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset" SILENT=true
+[2023.05.08-15.51.24:084][734]LogSavePackage: Moving output files for package: /Game/Rooms/F2R2
+[2023.05.08-15.51.24:085][734]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R206B19E494F19C386606583A66D628BD6.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset'
+[2023.05.08-15.51.24:095][734]AssetCheck: New page: Asset Save: F2R2
+[2023.05.08-15.51.24:095][734]LogContentValidation: Display: Validating Blueprint /Game/Rooms/F2R2.F2R2
+[2023.05.08-15.51.25:532][902]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.51.25:548][903]LogViewport: Scene viewport resized to 481x284, mode Windowed.
+[2023.05.08-15.51.26:638][990]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-15.51.26:643][990]BlueprintLog: Warning: Blueprint failed to compile:  Room
+[2023.05.08-15.51.26:643][990]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.08-15.51.26:647][990]LogPlayLevel: [PlayLevel] Compiling F2R2 before play...
+[2023.05.08-15.51.26:733][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.08-15.51.26:741][990]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (1 blueprints)
+[2023.05.08-15.51.26:741][990]LogCustomDialog: Dialog displayed:
+[2023.05.08-15.51.28:360][990]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.08-15.51.33:279][547]LogEditorTransaction: Undo Modify Component(s)
+[2023.05.08-15.51.39:445][219]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-15.51.42:281][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/F2R2" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset" SILENT=true
+[2023.05.08-15.51.42:283][549]LogSavePackage: Moving output files for package: /Game/Rooms/F2R2
+[2023.05.08-15.51.42:283][549]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R27F3EDB0E4EA635EDB38D9395CB96C8D9.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset'
+[2023.05.08-15.51.42:292][549]AssetCheck: New page: Asset Save: F2R2
+[2023.05.08-15.51.42:292][549]LogContentValidation: Display: Validating Blueprint /Game/Rooms/F2R2.F2R2
+[2023.05.08-15.51.44:942][857]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.08-15.51.45:012][864]LogDerivedDataCache: C:/Users/Voldur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.022 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.08-15.51.54:275][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Room" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/Room.uasset" SILENT=true
+[2023.05.08-15.51.54:280][955]LogSavePackage: Moving output files for package: /Game/Rooms/Room
+[2023.05.08-15.51.54:280][955]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Room10A5C1654941C55B90F577A816B0EB74.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/Room.uasset'
+[2023.05.08-15.51.54:293][955]AssetCheck: New page: Asset Save: Room
+[2023.05.08-15.51.54:293][955]LogContentValidation: Display: Validating Blueprint /Game/Rooms/Room.Room
+[2023.05.08-15.51.55:198][ 53]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.51.56:234][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-15.51.56:238][143]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.08-15.51.56:239][143]LogPlayLevel: [PlayLevel] Compiling Room before play...
+[2023.05.08-15.51.56:241][143]LogBlueprint: Error: [AssetLog] C:\Users\Voldur\Documents\GitHub\gra-logiczna-3d\Content\Rooms\Room.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2023.05.08-15.51.56:264][143]LogPlayLevel: [PlayLevel] Compiling F2R2 before play...
+[2023.05.08-15.51.56:326][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.08-15.51.56:331][143]LogPlayLevel: PlayLevel: Blueprint regeneration took 92 ms (2 blueprints)
+[2023.05.08-15.51.56:331][143]BlueprintLog: Warning: Blueprint failed to compile:  Room
+[2023.05.08-15.51.56:332][143]LogCustomDialog: Dialog displayed:
+[2023.05.08-15.51.57:645][143]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.08-15.51.59:123][302]LogSlate: Window 'Message Log' being destroyed
+[2023.05.08-15.51.59:127][302]LogSlate: Window 'Message Log' being destroyed
+[2023.05.08-15.52.05:875][102]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.08-15.52.46:036][849]BlueprintLog: New page: Compile Room
+[2023.05.08-15.52.46:091][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.08-15.52.49:807][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/Room" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/Room.uasset" SILENT=true
+[2023.05.08-15.52.49:812][271]LogSavePackage: Moving output files for package: /Game/Rooms/Room
+[2023.05.08-15.52.49:812][271]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Room896C02E64F583CC5F8266C92A212F6E4.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/Room.uasset'
+[2023.05.08-15.52.49:821][271]AssetCheck: New page: Asset Save: Room
+[2023.05.08-15.52.49:821][271]LogContentValidation: Display: Validating Blueprint /Game/Rooms/Room.Room
+[2023.05.08-15.52.51:785][460]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-15.52.51:790][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.08-15.52.51:795][460]PIE: New page: PIE session: Minimal_Default (8 maj 2023, 19:52:51)
+[2023.05.08-15.52.51:798][460]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.08-15.52.51:799][460]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.08-15.52.51:799][460]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.52.51:808][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008470s)
+[2023.05.08-15.52.51:808][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008530s)
+[2023.05.08-15.52.51:808][460]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.08-15.52.51:808][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.52.51:808][460]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.08-15.52.51:809][460]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2023.05.08-15.52.51:841][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.08-15.52.51:844][460]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.08-15.52.51:844][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.08-15.52.51:844][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.08-15.52.51:844][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.08-15.52.51:844][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.08-15.52.51:844][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.08-15.52.51:844][460]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.08-15.52.51:844][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.08-15.52.51:844][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.08-15.52.51:844][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.08-15.52.51:844][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.08-15.52.51:844][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.08-15.52.51:846][460]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.08-15.52.51:856][460]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.08-15.52.51:856][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.08-15.52.51:856][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.08-15.52.51:856][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.08-15.52.51:857][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.08-15.52.51:857][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.08-15.52.51:857][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.08-15.52.51:857][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.08-15.52.51:857][460]LogInit: FAudioDevice initialized.
+[2023.05.08-15.52.51:857][460]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2023.05.08-15.52.51:869][460]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.08-15.52.51:870][460]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.08-17.52.51
+[2023.05.08-15.52.51:870][460]LogWorld: Bringing up level for play took: 0.001509
+[2023.05.08-15.52.51:871][460]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.05.08-15.52.51:892][460]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.05.08-15.52.51:899][460]PIE: Server logged in
+[2023.05.08-15.52.51:900][460]PIE: Play in editor total start time 0,111 seconds.
+[2023.05.08-15.52.56:083][924]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.56:088][924]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.57:385][ 80]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.57:385][ 80]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.57:668][114]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.57:668][114]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.57:893][141]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.57:893][141]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.58:084][164]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.58:084][164]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.58:293][189]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.58:293][189]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.58:560][221]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.58:560][221]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.58:734][242]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.58:734][242]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.59:101][286]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.59:101][286]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.59:343][315]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.59:343][315]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.52.59:984][392]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.52.59:984][392]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.00:394][441]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.00:394][441]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.00:743][483]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.00:743][483]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.00:935][506]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.00:935][506]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.01:135][530]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.01:135][530]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.02:485][692]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.02:485][692]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.02:701][718]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.02:701][718]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.02:935][746]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.02:935][746]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.03:143][771]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.03:143][771]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.03:720][840]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.03:720][840]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.03:968][870]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.03:968][870]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.04:168][894]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.04:168][894]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.04:493][933]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.04:493][933]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.04:718][960]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.04:718][960]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.04:902][982]LogScript: Warning: Script Msg: Attempted to access index 25 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.04:902][982]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.05:101][  6]LogScript: Warning: Script Msg: Attempted to access index 26 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.05:101][  6]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.05:301][ 30]LogScript: Warning: Script Msg: Attempted to access index 27 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.05:301][ 30]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.05:510][ 55]LogScript: Warning: Script Msg: Attempted to access index 28 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.05:510][ 55]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.05:684][ 76]LogScript: Warning: Script Msg: Attempted to access index 29 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.05:685][ 76]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.05:868][ 98]LogScript: Warning: Script Msg: Attempted to access index 30 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.05:868][ 98]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.06:068][122]LogScript: Warning: Script Msg: Attempted to access index 31 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.06:068][122]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.06:285][148]LogScript: Warning: Script Msg: Attempted to access index 32 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.06:285][148]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.06:468][170]LogScript: Warning: Script Msg: Attempted to access index 33 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.06:468][170]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.06:635][190]LogScript: Warning: Script Msg: Attempted to access index 34 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.06:635][190]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.06:818][212]LogScript: Warning: Script Msg: Attempted to access index 35 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.06:818][212]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.07:017][236]LogScript: Warning: Script Msg: Attempted to access index 36 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.07:018][236]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.07:226][261]LogScript: Warning: Script Msg: Attempted to access index 37 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.07:226][261]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.07:810][331]LogScript: Warning: Script Msg: Attempted to access index 38 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.07:810][331]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.08:027][357]LogScript: Warning: Script Msg: Attempted to access index 39 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.08:027][357]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.08:284][388]LogScript: Warning: Script Msg: Attempted to access index 40 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.08:284][388]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.08:476][411]LogScript: Warning: Script Msg: Attempted to access index 41 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.08:477][411]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.08:660][433]LogScript: Warning: Script Msg: Attempted to access index 42 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.08:660][433]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.13:103][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.53.13:104][609]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.53.13:104][609]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.53.13:106][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.53.13:115][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.08-15.53.13:121][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.53.13:161][609]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.08-15.53.13:166][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.08-15.53.13:167][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.08-15.53.13:170][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.53.13:189][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.08-15.53.13:241][610]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.05.08-15.53.13:249][610]LogViewport: Scene viewport resized to 481x284, mode Windowed.
+[2023.05.08-15.53.13:280][610]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.08-15.53.19:100][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.08-15.53.19:146][133]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.05.08-15.53.19:146][133]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Minimal_DefaultC19F2B7348EE212EC6C888B31E4F3595.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.08-15.53.19:155][133]LogFileHelpers: No new changes to save!
+[2023.05.08-15.53.19:165][133]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.08-15.53.19:165][133]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.08-15.53.20:994][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-15.53.20:999][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.08-15.53.20:999][342]PIE: New page: PIE session: Minimal_Default (8 maj 2023, 19:53:20)
+[2023.05.08-15.53.21:020][342]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.53.21:028][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008060s)
+[2023.05.08-15.53.21:028][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008138s)
+[2023.05.08-15.53.21:028][342]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.08-15.53.21:028][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.53.21:028][342]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.08-15.53.21:029][342]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2023.05.08-15.53.21:065][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.08-15.53.21:067][342]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.08-15.53.21:067][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.08-15.53.21:067][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.08-15.53.21:067][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.08-15.53.21:067][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.08-15.53.21:067][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.08-15.53.21:067][342]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.08-15.53.21:067][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.08-15.53.21:067][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.08-15.53.21:067][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.08-15.53.21:067][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.08-15.53.21:067][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.08-15.53.21:069][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.08-15.53.21:078][342]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.08-15.53.21:078][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.08-15.53.21:078][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.08-15.53.21:078][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.08-15.53.21:078][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.08-15.53.21:078][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.08-15.53.21:079][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.08-15.53.21:079][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.08-15.53.21:079][342]LogInit: FAudioDevice initialized.
+[2023.05.08-15.53.21:079][342]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2023.05.08-15.53.21:087][342]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.08-15.53.21:088][342]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.08-17.53.21
+[2023.05.08-15.53.21:088][342]LogWorld: Bringing up level for play took: 0.001314
+[2023.05.08-15.53.21:089][342]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.05.08-15.53.21:094][342]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.05.08-15.53.21:100][342]PIE: Server logged in
+[2023.05.08-15.53.21:100][342]PIE: Play in editor total start time 0,102 seconds.
+[2023.05.08-15.53.23:623][637]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.23:623][637]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.23:848][664]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.23:848][664]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.24:107][695]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.24:107][695]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.24:340][723]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.24:340][723]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.24:516][744]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.24:516][744]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.24:791][777]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.24:791][777]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.25:023][805]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.25:023][805]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.25:182][824]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.25:182][824]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.25:474][859]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.25:474][859]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.25:682][884]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.25:682][884]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.25:857][905]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.25:857][905]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.53.26:066][930]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.53.26:066][930]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.31:670][799]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.31:670][799]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.31:863][822]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.31:863][822]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.32:113][852]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.32:113][852]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.32:287][873]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.32:287][873]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.32:471][895]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.32:471][895]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.32:663][918]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.32:663][918]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.33:004][959]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.33:004][959]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.33:238][987]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.33:238][987]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.33:437][ 11]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.33:437][ 11]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.34:488][137]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.34:488][137]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.34:680][160]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.34:680][160]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.34:879][184]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.34:879][184]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.35:054][205]LogScript: Warning: Script Msg: Attempted to access index 25 from array 'dialogue' of length 1 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.54.35:054][205]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.54.35:640][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.54.35:640][272]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.54.35:640][272]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.54.35:642][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.54.35:656][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.08-15.54.35:662][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.54.35:699][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.08-15.54.35:699][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.08-15.54.35:700][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.08-15.54.35:703][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.54.35:707][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.08-15.54.35:739][273]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.05.08-15.54.53:163][338]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-15.55.35:459][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_17.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.35:460][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_567.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.35:461][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_19.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.35:462][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_569.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.44:097][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_21.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.44:098][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_571.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.44:100][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_23.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.44:101][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_573.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.44:184][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_25.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.44:185][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_575.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.44:187][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_27.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.44:188][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_577.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.46:306][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_29.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.46:307][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_579.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.46:309][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_31.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.46:310][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_581.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.48:322][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.55.48:326][323]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.55.48:326][323]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionD694CF0B4DD703E7450A64A365AA51C3.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.55.48:339][323]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.55.48:339][323]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.55.52:204][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/F2R2" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset" SILENT=true
+[2023.05.08-15.55.52:206][770]LogSavePackage: Moving output files for package: /Game/Rooms/F2R2
+[2023.05.08-15.55.52:207][770]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R29E4293B3430BBC630133E7883E6E1070.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset'
+[2023.05.08-15.55.52:217][770]AssetCheck: New page: Asset Save: F2R2
+[2023.05.08-15.55.52:217][770]LogContentValidation: Display: Validating Blueprint /Game/Rooms/F2R2.F2R2
+[2023.05.08-15.55.54:119][992]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-15.55.54:122][992]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.08-15.55.54:123][992]LogPlayLevel: [PlayLevel] Compiling F2R2_Question before play...
+[2023.05.08-15.55.54:156][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_33.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.54:157][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_583.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.54:161][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_35.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.54:162][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_585.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.55.54:202][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.08-15.55.54:207][992]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2023.05.08-15.55.54:207][992]PIE: New page: PIE session: Minimal_Default (8 maj 2023, 19:55:54)
+[2023.05.08-15.55.54:207][992]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.55.54:214][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007952s)
+[2023.05.08-15.55.54:214][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008002s)
+[2023.05.08-15.55.54:214][992]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.08-15.55.54:214][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.55.54:214][992]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.08-15.55.54:215][992]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2023.05.08-15.55.54:253][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.08-15.55.54:254][992]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.08-15.55.54:254][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.08-15.55.54:254][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.08-15.55.54:254][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.08-15.55.54:254][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.08-15.55.54:254][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.08-15.55.54:254][992]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.08-15.55.54:254][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.08-15.55.54:254][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.08-15.55.54:254][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.08-15.55.54:254][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.08-15.55.54:254][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.08-15.55.54:256][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.08-15.55.54:265][992]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.08-15.55.54:265][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.08-15.55.54:265][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.08-15.55.54:265][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.08-15.55.54:266][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.08-15.55.54:266][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.08-15.55.54:267][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.08-15.55.54:267][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.08-15.55.54:267][992]LogInit: FAudioDevice initialized.
+[2023.05.08-15.55.54:267][992]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2023.05.08-15.55.54:278][992]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.08-15.55.54:279][992]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.08-17.55.54
+[2023.05.08-15.55.54:279][992]LogWorld: Bringing up level for play took: 0.001371
+[2023.05.08-15.55.54:280][992]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.05.08-15.55.54:285][992]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.05.08-15.55.54:291][992]PIE: Server logged in
+[2023.05.08-15.55.54:291][992]PIE: Play in editor total start time 0,169 seconds.
+[2023.05.08-15.55.55:892][175]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE 2
+[2023.05.08-15.55.56:135][204]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE 3
+[2023.05.08-15.55.56:318][226]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.56:318][226]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.57:018][310]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.57:018][310]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.57:252][338]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.57:252][338]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.57:460][363]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.57:460][363]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.57:943][421]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.57:943][421]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.58:177][449]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.58:177][449]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.58:377][473]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.58:377][473]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.58:584][498]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.58:584][498]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.58:810][525]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.58:810][525]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.58:994][547]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'dialogue' of length 3 in '/Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question_C'!
+[2023.05.08-15.55.58:994][547]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.55.59:680][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.55.59:680][625]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.55.59:680][625]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.55.59:682][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.55.59:710][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.08-15.55.59:714][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.55.59:751][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.55.59:752][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.08-15.55.59:753][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.08-15.55.59:759][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.08-15.55.59:795][626]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.05.08-15.56.10:422][882]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_587.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.10:423][882]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_37.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.13:248][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_589.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.13:249][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_39.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.13:253][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_591.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.13:254][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_41.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.26:107][524]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.08-15.56.26:115][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_593.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.26:116][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_43.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.28:261][771]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.08-15.56.28:264][771]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.08-15.56.39:512][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_595.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.39:513][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_45.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.39:515][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_597.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.39:515][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_47.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.40:808][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_599.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.40:809][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_49.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.40:811][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_601.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.40:812][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_51.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.41:971][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.56.41:975][369]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.56.41:975][369]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionB8DAC4454C2B7C24B9EED18AB0F03794.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.56.41:986][369]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.56.41:986][369]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.56.43:080][491]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-15.56.43:081][491]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-15.56.46:226][859]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-15.56.46:231][859]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.08-15.56.46:231][859]LogPlayLevel: [PlayLevel] Compiling F2R2_Question before play...
+[2023.05.08-15.56.46:235][859]LogClass: Warning: Type mismatch in dialogue of F2R2_Question_C - Previous (ArrayProperty) Current(StrProperty) for package:  FObjectReader
+[2023.05.08-15.56.46:260][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_603.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.46:261][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_53.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.46:265][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_605.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.46:266][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_55.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.56.46:305][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.08-15.56.46:311][859]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2023.05.08-15.56.46:311][859]PIE: New page: PIE session: Minimal_Default (8 maj 2023, 19:56:46)
+[2023.05.08-15.56.46:339][859]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.56.46:348][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008030s)
+[2023.05.08-15.56.46:348][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008109s)
+[2023.05.08-15.56.46:348][859]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.08-15.56.46:348][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.56.46:348][859]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.08-15.56.46:348][859]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2023.05.08-15.56.46:385][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.08-15.56.46:386][859]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.08-15.56.46:386][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.08-15.56.46:386][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.08-15.56.46:386][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.08-15.56.46:386][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.08-15.56.46:386][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.08-15.56.46:386][859]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.08-15.56.46:386][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.08-15.56.46:386][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.08-15.56.46:387][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.08-15.56.46:387][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.08-15.56.46:387][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.08-15.56.46:388][859]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.08-15.56.46:397][859]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.08-15.56.46:398][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.08-15.56.46:398][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.08-15.56.46:398][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.08-15.56.46:398][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.08-15.56.46:398][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.08-15.56.46:399][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.08-15.56.46:399][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.08-15.56.46:399][859]LogInit: FAudioDevice initialized.
+[2023.05.08-15.56.46:399][859]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default'.
+[2023.05.08-15.56.46:406][859]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.08-15.56.46:408][859]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.08-17.56.46
+[2023.05.08-15.56.46:408][859]LogWorld: Bringing up level for play took: 0.001344
+[2023.05.08-15.56.46:409][859]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.05.08-15.56.46:413][859]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.05.08-15.56.46:420][859]PIE: Server logged in
+[2023.05.08-15.56.46:420][859]PIE: Play in editor total start time 0,189 seconds.
+[2023.05.08-15.56.47:865][ 23]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.48:356][ 82]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.48:615][113]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.48:948][153]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.49:208][184]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.49:482][217]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.49:683][241]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.50:099][291]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.50:307][316]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.50:557][346]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.50:949][393]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.51:157][418]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.51:449][453]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.51:657][478]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.51:949][513]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.52:149][537]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.52:357][562]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.52:574][588]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.52:882][625]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] 
+[2023.05.08-15.56.53:260][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.56.53:260][667]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.56.53:260][667]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.56.53:262][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.56.53:271][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.08-15.56.53:276][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.56.53:313][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.56.53:314][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.08-15.56.53:315][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.08-15.56.53:322][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.08-15.56.53:355][668]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.05.08-15.56.54:972][855]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-15.56.54:972][855]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-15.56.54:972][855]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-15.57.19:524][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_57.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.57.19:525][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_607.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.57.19:528][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_59.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.57.19:529][192]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_609.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.57.19:558][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-15.57.19:560][192]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-15.57.19:560][192]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionEA8AA37A43B2A59E57D2F19A6792BDBD.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-15.57.19:571][192]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-15.57.19:571][192]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-15.57.22:693][559]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-15.57.22:696][559]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.08-15.57.22:697][559]LogPlayLevel: [PlayLevel] Compiling F2R2_Question before play...
+[2023.05.08-15.57.22:725][559]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_61.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.57.22:726][559]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_611.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.57.22:730][559]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_63.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.57.22:731][559]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_613.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-15.57.22:769][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.08-15.57.22:773][559]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (1 blueprints)
+[2023.05.08-15.57.22:773][559]PIE: New page: PIE session: Minimal_Default (8 maj 2023, 19:57:22)
+[2023.05.08-15.57.22:820][559]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.57.22:828][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008127s)
+[2023.05.08-15.57.22:828][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008213s)
+[2023.05.08-15.57.22:828][559]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.08-15.57.22:828][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.57.22:828][559]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.08-15.57.22:828][559]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2023.05.08-15.57.22:867][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.08-15.57.22:868][559]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.08-15.57.22:868][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.08-15.57.22:868][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.08-15.57.22:868][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.08-15.57.22:868][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.08-15.57.22:868][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.08-15.57.22:868][559]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.08-15.57.22:868][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.08-15.57.22:868][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.08-15.57.22:869][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.08-15.57.22:869][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.08-15.57.22:869][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.08-15.57.22:870][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.08-15.57.22:879][559]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.08-15.57.22:879][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.08-15.57.22:880][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.08-15.57.22:880][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.08-15.57.22:880][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.05.08-15.57.22:880][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.05.08-15.57.22:881][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.05.08-15.57.22:881][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.05.08-15.57.22:881][559]LogInit: FAudioDevice initialized.
+[2023.05.08-15.57.22:881][559]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default'.
+[2023.05.08-15.57.22:894][559]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.08-15.57.22:895][559]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.08-17.57.22
+[2023.05.08-15.57.22:895][559]LogWorld: Bringing up level for play took: 0.001377
+[2023.05.08-15.57.22:895][559]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.05.08-15.57.22:900][559]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.05.08-15.57.22:907][559]PIE: Server logged in
+[2023.05.08-15.57.22:907][559]PIE: Play in editor total start time 0,21 seconds.
+[2023.05.08-15.57.24:592][752]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.24:809][778]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.25:034][805]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.25:260][832]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.25:467][857]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.25:684][883]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.27:809][138]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.28:043][166]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.28:293][196]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.28:501][221]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.32:468][697]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.32:668][721]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.32:927][752]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.33:194][784]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.33:402][809]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-15.57.34:280][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.57.34:280][911]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-15.57.34:280][911]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-15.57.34:282][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.57.34:311][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.08-15.57.34:315][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-15.57.34:352][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.08-15.57.34:353][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.08-15.57.34:354][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.08-15.57.34:356][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-15.57.34:360][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.08-15.57.34:394][912]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.05.08-15.58.24:331][669]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.05.08-15.58.24:337][669]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.08-15.58.24:342][669]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.08-15.58.24:354][670]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.08-15.58.44:974][144]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Dialogue
+[2023.05.08-15.58.44:983][144]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.08-15.58.45:810][242]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Rooms/RoomsAssets/WB_Dialogue.WB_Dialogue
+[2023.05.08-15.58.45:810][242]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.58.45:817][242]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-15.58.46:031][242]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.08-15.58.46:032][242]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.08-16.01.00:542][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/WB_Dialogue" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/WB_Dialogue.uasset" SILENT=true
+[2023.05.08-16.01.00:543][770]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/WB_Dialogue
+[2023.05.08-16.01.00:544][770]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/WB_Dialogue0AD489444AA4CE019C6CE4BFC4AB0DC6.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/WB_Dialogue.uasset'
+[2023.05.08-16.01.00:558][770]AssetCheck: New page: Asset Save: WB_Dialogue
+[2023.05.08-16.01.00:558][770]LogContentValidation: Display: Validating WidgetBlueprint /Game/Rooms/RoomsAssets/WB_Dialogue.WB_Dialogue
+[2023.05.08-16.04.47:339][170]LogEditorTransaction: Undo Resize Widget
+[2023.05.08-16.05.11:320][213]LogEditorTransaction: Undo Resize Widget
+[2023.05.08-16.06.48:789][307]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.08-16.07.28:049][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_615.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.07.28:050][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_65.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.07.44:448][505]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_617.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.07.44:450][505]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_67.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.03:034][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-16.08.03:038][968]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-16.08.03:038][968]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question0A89D4C94B6B1653539E26975E13EC24.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-16.08.03:055][968]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-16.08.03:055][968]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-16.08.04:289][114]BlueprintLog: New page: Compile F2R2_Question
+[2023.05.08-16.08.04:371][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.05.08-16.08.04:382][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_619.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.04:384][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_69.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.04:389][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_621.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.04:391][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_71.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.06:932][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-16.08.06:936][405]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.08-16.08.06:938][405]LogPlayLevel: [PlayLevel] Compiling WB_Dialogue before play...
+[2023.05.08-16.08.06:959][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_623.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.06:960][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_73.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.06:981][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_625.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.06:982][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_75.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.08.07:040][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.05.08-16.08.07:042][405]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (1 blueprints)
+[2023.05.08-16.08.07:042][405]PIE: New page: PIE session: Minimal_Default (8 maj 2023, 20:08:07)
+[2023.05.08-16.08.07:080][405]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-16.08.07:088][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008069s)
+[2023.05.08-16.08.07:088][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008158s)
+[2023.05.08-16.08.07:088][405]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.08-16.08.07:088][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-16.08.07:088][405]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.08-16.08.07:088][405]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2023.05.08-16.08.07:127][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.08-16.08.07:129][405]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.08-16.08.07:129][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.08-16.08.07:129][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.08-16.08.07:129][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.08-16.08.07:129][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.08-16.08.07:129][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.08-16.08.07:129][405]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.08-16.08.07:129][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.08-16.08.07:129][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.08-16.08.07:129][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.08-16.08.07:129][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.08-16.08.07:129][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.08-16.08.07:131][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.08-16.08.07:140][405]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.08-16.08.07:140][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.08-16.08.07:140][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.08-16.08.07:140][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.08-16.08.07:140][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.05.08-16.08.07:140][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.05.08-16.08.07:141][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.05.08-16.08.07:141][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.05.08-16.08.07:141][405]LogInit: FAudioDevice initialized.
+[2023.05.08-16.08.07:141][405]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default'.
+[2023.05.08-16.08.07:153][405]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.08-16.08.07:155][405]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.08-18.08.07
+[2023.05.08-16.08.07:155][405]LogWorld: Bringing up level for play took: 0.001638
+[2023.05.08-16.08.07:156][405]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.05.08-16.08.07:161][405]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.05.08-16.08.07:167][405]PIE: Server logged in
+[2023.05.08-16.08.07:168][405]PIE: Play in editor total start time 0,232 seconds.
+[2023.05.08-16.08.09:024][617]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.09:909][719]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.10:117][744]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.10:434][782]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.10:659][809]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.10:859][833]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.11:067][858]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.11:226][877]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.11:401][898]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.11:576][919]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.11:742][939]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.11:892][957]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.12:042][975]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.12:226][997]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.12:401][ 18]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.12:551][ 36]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.12:718][ 56]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.12:868][ 74]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.14:367][254]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.14:543][275]LogBlueprintUserMessages: [F2R2_Question_GEN_VARIABLE_F2R2_Question_C_CAT_0] APPELPIE
+[2023.05.08-16.08.25:580][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-16.08.25:580][360]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-16.08.25:580][360]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-16.08.25:582][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-16.08.25:596][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.08-16.08.25:600][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-16.08.25:644][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.08-16.08.25:644][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.08-16.08.25:646][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.08-16.08.25:648][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-16.08.25:653][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.08-16.08.25:687][361]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.05.08-16.12.20:264][563]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_77.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.12.20:265][563]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_627.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.12.22:356][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.08-16.12.22:361][796]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.054
+[2023.05.08-16.12.22:361][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rooms/F2R2] ([2] browsable assets)...
+[2023.05.08-16.12.22:361][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rooms/F2R2]
+[2023.05.08-16.12.22:361][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/F2R2" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/Rooms/F2R2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.05.08-16.12.22:364][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Rooms/F2R2_Auto3
+[2023.05.08-16.12.22:364][796]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Auto326E4EE7D45A3D1BFF119D3A337716AB9.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/Rooms/F2R2_Auto3.uasset'
+[2023.05.08-16.12.22:365][796]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Rooms/RoomsAssets/F2R2_Question] ([2] browsable assets)...
+[2023.05.08-16.12.22:379][796]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question]
+[2023.05.08-16.12.22:379][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rooms/RoomsAssets/F2R2_Question]
+[2023.05.08-16.12.22:383][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Rooms/RoomsAssets/F2R2_Question_Auto3
+[2023.05.08-16.12.22:383][796]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question_Auto30790EDE14591B34D7DA7D98094236276.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/Rooms/RoomsAssets/F2R2_Question_Auto3.uasset'
+[2023.05.08-16.12.22:384][796]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Rooms/RoomsAssets/WB_Dialogue] ([2] browsable assets)...
+[2023.05.08-16.12.22:386][796]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Rooms/RoomsAssets/WB_Dialogue.WB_Dialogue]
+[2023.05.08-16.12.22:386][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rooms/RoomsAssets/WB_Dialogue]
+[2023.05.08-16.12.22:388][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Rooms/RoomsAssets/WB_Dialogue_Auto3
+[2023.05.08-16.12.22:388][796]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/WB_Dialogue_Auto37BDA69B14D4AA4176D1626965F77B265.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/Autosaves/Game/Rooms/RoomsAssets/WB_Dialogue_Auto3.uasset'
+[2023.05.08-16.12.22:388][796]LogFileHelpers: Auto-saving content packages took 0.026
+[2023.05.08-16.12.35:332][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-16.12.35:337][294]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-16.12.35:337][294]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question84F9AC9948EB58D8F9FBE8BBEE8EC985.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-16.12.35:349][294]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-16.12.35:349][294]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-16.12.36:090][373]BlueprintLog: New page: Compile F2R2_Question
+[2023.05.08-16.12.36:165][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.08-16.12.36:171][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_79.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.12.36:172][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_629.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.12.36:180][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_81.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.12.36:182][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_631.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.12.37:480][521]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-16.12.37:485][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.08-16.12.37:485][521]PIE: New page: PIE session: Minimal_Default (8 maj 2023, 20:12:37)
+[2023.05.08-16.12.37:529][521]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-16.12.37:538][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008176s)
+[2023.05.08-16.12.37:538][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008266s)
+[2023.05.08-16.12.37:538][521]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.08-16.12.37:538][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-16.12.37:538][521]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.08-16.12.37:539][521]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2023.05.08-16.12.37:579][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.08-16.12.37:582][521]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.08-16.12.37:582][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.08-16.12.37:582][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.08-16.12.37:582][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.08-16.12.37:582][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.08-16.12.37:582][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.08-16.12.37:582][521]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.08-16.12.37:582][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.08-16.12.37:582][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.08-16.12.37:583][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.08-16.12.37:583][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.08-16.12.37:583][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.08-16.12.37:584][521]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.08-16.12.37:593][521]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.08-16.12.37:593][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.08-16.12.37:593][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.08-16.12.37:593][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.08-16.12.37:594][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.05.08-16.12.37:594][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.05.08-16.12.37:594][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.05.08-16.12.37:594][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.05.08-16.12.37:594][521]LogInit: FAudioDevice initialized.
+[2023.05.08-16.12.37:594][521]LogAudio: Display: Audio Device (ID: 8) registered with world 'Minimal_Default'.
+[2023.05.08-16.12.37:605][521]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.08-16.12.37:607][521]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.08-18.12.37
+[2023.05.08-16.12.37:607][521]LogWorld: Bringing up level for play took: 0.001447
+[2023.05.08-16.12.37:608][521]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.05.08-16.12.37:612][521]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.05.08-16.12.37:619][521]PIE: Server logged in
+[2023.05.08-16.12.37:620][521]PIE: Play in editor total start time 0,134 seconds.
+[2023.05.08-16.12.47:410][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-16.12.47:410][684]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-16.12.47:410][684]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-16.12.47:412][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-16.12.47:426][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.08-16.12.47:431][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-16.12.47:471][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.08-16.12.47:471][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.08-16.12.47:473][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.08-16.12.47:475][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-16.12.47:479][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.05.08-16.12.47:513][685]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.05.08-16.12.54:137][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_633.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.12.54:139][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_83.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.12.59:416][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-16.12.59:421][ 68]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-16.12.59:421][ 68]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_QuestionCD051A4D49C6B1BD612ACFA769E5383D.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-16.12.59:432][ 68]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-16.12.59:432][ 68]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-16.13.03:101][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-16.13.03:105][501]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-16.13.03:106][501]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question428870864B59CC181FEE12AAC70B452E.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-16.13.03:116][501]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-16.13.03:116][501]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
+[2023.05.08-16.13.05:006][717]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.08-16.13.05:010][717]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.08-16.13.05:011][717]LogPlayLevel: [PlayLevel] Compiling F2R2_Question before play...
+[2023.05.08-16.13.05:041][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_635.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.13.05:043][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_85.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.13.05:050][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_637.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.13.05:051][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_87.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.13.05:094][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.08-16.13.05:098][717]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2023.05.08-16.13.05:098][717]PIE: New page: PIE session: Minimal_Default (8 maj 2023, 20:13:05)
+[2023.05.08-16.13.05:129][717]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-16.13.05:138][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007829s)
+[2023.05.08-16.13.05:138][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007906s)
+[2023.05.08-16.13.05:138][717]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.08-16.13.05:138][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-16.13.05:138][717]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.08-16.13.05:138][717]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2023.05.08-16.13.05:178][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.08-16.13.05:179][717]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.08-16.13.05:179][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.08-16.13.05:179][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.08-16.13.05:179][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.08-16.13.05:179][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.08-16.13.05:179][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.08-16.13.05:179][717]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.08-16.13.05:179][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.08-16.13.05:179][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.08-16.13.05:180][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.08-16.13.05:180][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.08-16.13.05:180][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.08-16.13.05:181][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.08-16.13.05:190][717]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Arctis 5 Game)
+[2023.05.08-16.13.05:190][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.08-16.13.05:190][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.08-16.13.05:190][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.08-16.13.05:191][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.08-16.13.05:191][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.08-16.13.05:192][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.08-16.13.05:192][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.08-16.13.05:192][717]LogInit: FAudioDevice initialized.
+[2023.05.08-16.13.05:192][717]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default'.
+[2023.05.08-16.13.05:199][717]LogLoad: Game class is 'myGameMode2_C'
+[2023.05.08-16.13.05:200][717]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.05.08-18.13.05
+[2023.05.08-16.13.05:201][717]LogWorld: Bringing up level for play took: 0.001475
+[2023.05.08-16.13.05:202][717]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.05.08-16.13.05:206][717]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.05.08-16.13.05:213][717]PIE: Server logged in
+[2023.05.08-16.13.05:214][717]PIE: Play in editor total start time 0,203 seconds.
+[2023.05.08-16.14.09:549][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/WB_Dialogue" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/WB_Dialogue.uasset" SILENT=true
+[2023.05.08-16.14.09:551][756]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/WB_Dialogue
+[2023.05.08-16.14.09:551][756]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/WB_DialogueA46DB7384751C289D98B41AC91B6A76C.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/WB_Dialogue.uasset'
+[2023.05.08-16.14.09:558][756]AssetCheck: New page: Asset Save: WB_Dialogue
+[2023.05.08-16.14.09:558][756]LogContentValidation: Display: Validating WidgetBlueprint /Game/Rooms/RoomsAssets/WB_Dialogue.WB_Dialogue
+[2023.05.08-16.14.23:470][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-16.14.23:470][414]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.08-16.14.23:470][414]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-16.14.23:472][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-16.14.23:481][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.08-16.14.23:485][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-16.14.23:526][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.08-16.14.23:526][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.08-16.14.23:527][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.08-16.14.23:537][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.05.08-16.14.23:561][415]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.05.08-16.14.38:929][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_89.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.14.38:931][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_639.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.14.38:938][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_91.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.14.38:940][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.DESTROYED_F2R2_Question_C_CHILDACTOR_641.CollisionCylinder) Trying to register component with IsValid() == false. Aborting.
+[2023.05.08-16.14.38:964][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-16.14.38:964][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-16.14.38:964][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-16.14.38:964][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.F2R2'
+[2023.05.08-16.14.41:068][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/F2R2" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset" SILENT=true
+[2023.05.08-16.14.41:070][490]LogSavePackage: Moving output files for package: /Game/Rooms/F2R2
+[2023.05.08-16.14.41:070][490]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R23435EDE943C4E0B35DA855856667BEA6.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/F2R2.uasset'
+[2023.05.08-16.14.41:080][490]AssetCheck: New page: Asset Save: F2R2
+[2023.05.08-16.14.41:080][490]LogContentValidation: Display: Validating Blueprint /Game/Rooms/F2R2.F2R2
+[2023.05.08-16.14.56:682][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rooms/RoomsAssets/F2R2_Question" FILE="../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset" SILENT=true
+[2023.05.08-16.14.56:687][910]LogSavePackage: Moving output files for package: /Game/Rooms/RoomsAssets/F2R2_Question
+[2023.05.08-16.14.56:687][910]LogSavePackage: Moving '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Saved/F2R2_Question1827F7194560DEB4D3208DA88EC55429.tmp' to '../../../../../../Users/Voldur/Documents/GitHub/gra-logiczna-3d/Content/Rooms/RoomsAssets/F2R2_Question.uasset'
+[2023.05.08-16.14.56:697][910]AssetCheck: New page: Asset Save: F2R2_Question
+[2023.05.08-16.14.56:697][910]LogContentValidation: Display: Validating Blueprint /Game/Rooms/RoomsAssets/F2R2_Question.F2R2_Question
